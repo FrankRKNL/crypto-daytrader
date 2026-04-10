@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Momentum+Cash L30",
+    "finalEquity": 63201.62157229162,
+    "totalReturn": 63101.62157229162,
+    "maxDrawdown": 99.90313647885264,
+    "cagr": 212.29,
+    "sharpe": 634.98,
+    "volatility": 97.37,
+    "ulcer": 30.56
+  },
+  {
+    "name": "Momentum+Cash L7",
+    "finalEquity": 23410.16151095103,
+    "totalReturn": 23310.16151095103,
+    "maxDrawdown": 99.83331535437424,
+    "cagr": 162.06,
+    "sharpe": 554.02,
+    "volatility": 97.86,
+    "ulcer": 33.86
+  },
+  {
+    "name": "Momentum Top1 L30",
+    "finalEquity": 19940.5646300112,
+    "totalReturn": 19840.5646300112,
+    "maxDrawdown": 99.81442176830954,
+    "cagr": 154.74,
+    "sharpe": 468.74,
+    "volatility": 104.68,
+    "ulcer": 42.89
+  },
+  {
+    "name": "Momentum+Cash L14",
+    "finalEquity": 11565.690260268031,
+    "totalReturn": 11465.690260268031,
+    "maxDrawdown": 99.68366165563533,
+    "cagr": 131.38,
+    "sharpe": 504.58,
+    "volatility": 98.09,
+    "ulcer": 43.78
+  },
+  {
+    "name": "Momentum Top1 L7",
+    "finalEquity": 9283.127842051104,
+    "totalReturn": 9183.127842051104,
+    "maxDrawdown": 99.65907378276853,
+    "cagr": 122.57,
+    "sharpe": 419.15,
+    "volatility": 105.12,
+    "ulcer": 43.91
+  },
+  {
+    "name": "Momentum Top1 L14",
+    "finalEquity": 9052.899769968473,
+    "totalReturn": 8952.899769968473,
+    "maxDrawdown": 99.67178818158729,
+    "cagr": 121.58,
+    "sharpe": 408.55,
+    "volatility": 106.34,
+    "ulcer": 45.8
+  },
+  {
+    "name": "DCA weekly",
+    "finalEquity": 5925.868289455795,
+    "totalReturn": 5825.868289455795,
+    "maxDrawdown": 100,
+    "cagr": 105.61,
+    "sharpe": 0,
+    "volatility": null,
+    "ulcer": 27.51
+  },
+  {
+    "name": "Momentum+Cash L60",
+    "finalEquity": 3462.949320614042,
+    "totalReturn": 3362.949320614042,
+    "maxDrawdown": 98.5143471994102,
+    "cagr": 87,
+    "sharpe": 478.02,
+    "volatility": 93.63,
+    "ulcer": 46.73
+  },
+  {
+    "name": "Momentum Top1 L60",
+    "finalEquity": 2973.1080248528347,
+    "totalReturn": 2873.1080248528347,
+    "maxDrawdown": 98.77761089316937,
+    "cagr": 82.03,
+    "sharpe": 406.16,
+    "volatility": 99.85,
+    "ulcer": 50.24
+  },
+  {
+    "name": "Equal Weight 5",
+    "finalEquity": 2389.2596277082707,
+    "totalReturn": 2289.2596277082707,
+    "maxDrawdown": 98.24196995196964,
+    "cagr": 65.84,
+    "sharpe": 788.71,
+    "volatility": 72.56,
+    "ulcer": 42.56
+  },
+  {
+    "name": "DCA monthly",
+    "finalEquity": 1347.135203845016,
+    "totalReturn": 1247.135203845016,
+    "maxDrawdown": 100,
+    "cagr": 58.28,
+    "sharpe": 0,
+    "volatility": null,
+    "ulcer": 31.87
+  },
+  {
+    "name": "BTC B&H",
+    "finalEquity": 1013.4245262712028,
+    "totalReturn": 913.4245262712028,
+    "maxDrawdown": 96.14948161594063,
+    "cagr": 44.65,
+    "sharpe": 879.9,
+    "volatility": 61.57,
+    "ulcer": 37.54
+  },
+  {
+    "name": "Trail Stop 10%",
+    "finalEquity": 698.1980442240292,
+    "totalReturn": 598.1980442240292,
+    "maxDrawdown": 91.87648916793026,
+    "cagr": 40.94,
+    "sharpe": 946.82,
+    "volatility": 58.24,
+    "ulcer": 38.99
+  },
+  {
+    "name": "Trail Stop 20%",
+    "finalEquity": 674.1355844443577,
+    "totalReturn": 574.1355844443577,
+    "maxDrawdown": 92.28086456969834,
+    "cagr": 40.07,
+    "sharpe": 934.51,
+    "volatility": 58.26,
+    "ulcer": 39.01
+  },
+  {
+    "name": "Trail Stop 5%",
+    "finalEquity": 648.1183313311344,
+    "totalReturn": 548.1183313311344,
+    "maxDrawdown": 91.87648916793026,
+    "cagr": 39.1,
+    "sharpe": 916.68,
+    "volatility": 58.41,
+    "ulcer": 39.02
+  },
+  {
+    "name": "Vol Target 0.02",
+    "finalEquity": 235.43180873335209,
+    "totalReturn": 135.4318087333521,
+    "maxDrawdown": 80.10338600351561,
+    "cagr": 16.32,
+    "sharpe": 1014,
+    "volatility": 44.97,
+    "ulcer": 34.47
+  },
+  {
+    "name": "Vol Target 0.03",
+    "finalEquity": 227.08962373386493,
+    "totalReturn": 127.08962373386493,
+    "maxDrawdown": 88.43540223299524,
+    "cagr": 15.58,
+    "sharpe": 469.32,
+    "volatility": 65.43,
+    "ulcer": 47.69
+  },
+  {
+    "name": "Vol Target 0.01",
+    "finalEquity": 176.0104038133677,
+    "totalReturn": 76.0104038133677,
+    "maxDrawdown": 60.71342545274147,
+    "cagr": 10.5,
+    "sharpe": 3754.88,
+    "volatility": 23.08,
+    "ulcer": 18.94
+  }
+]
