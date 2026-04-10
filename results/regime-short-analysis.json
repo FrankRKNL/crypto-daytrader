@@ -1,0 +1,137 @@
+{
+  "BEAR (Jan-Apr 2026)": {
+    "marketReturn": "-20.6",
+    "results": [
+      {
+        "totalReturn": 11.4,
+        "maxDrawdown": 6.98,
+        "winRate": 66.7,
+        "profitFactor": 2,
+        "totalTrades": 12,
+        "wins": 8,
+        "losses": 4,
+        "name": "Plain SHORT EMA200 SL3%"
+      },
+      {
+        "totalReturn": 13.46,
+        "maxDrawdown": 7.25,
+        "winRate": 66.7,
+        "profitFactor": 1.99,
+        "totalTrades": 12,
+        "wins": 8,
+        "losses": 4,
+        "name": "Plain SHORT EMA200 SL5%"
+      },
+      {
+        "totalReturn": 11.13,
+        "maxDrawdown": 6.98,
+        "winRate": 66.7,
+        "profitFactor": 1.97,
+        "totalTrades": 12,
+        "wins": 8,
+        "losses": 4,
+        "name": "Regime SHORT EMA50/200"
+      },
+      {
+        "totalReturn": -5.35,
+        "maxDrawdown": 14.95,
+        "winRate": 52.9,
+        "profitFactor": 0.82,
+        "totalTrades": 17,
+        "wins": 9,
+        "losses": 8,
+        "name": "Regime SHORT EMA20/50"
+      }
+    ]
+  },
+  "BULL (Nov 2024 - Feb 2025)": {
+    "marketReturn": "46.1",
+    "results": [
+      {
+        "totalReturn": -3.98,
+        "maxDrawdown": 9.32,
+        "winRate": 45.5,
+        "profitFactor": 0.8,
+        "totalTrades": 11,
+        "wins": 5,
+        "losses": 6,
+        "name": "Plain SHORT EMA200 SL3%"
+      },
+      {
+        "totalReturn": -12.28,
+        "maxDrawdown": 13.14,
+        "winRate": 36.4,
+        "profitFactor": 0.51,
+        "totalTrades": 11,
+        "wins": 4,
+        "losses": 7,
+        "name": "Plain SHORT EMA200 SL5%"
+      },
+      {
+        "totalReturn": 0.32,
+        "maxDrawdown": 9.32,
+        "winRate": 50,
+        "profitFactor": 1.06,
+        "totalTrades": 10,
+        "wins": 5,
+        "losses": 5,
+        "name": "Regime SHORT EMA50/200"
+      },
+      {
+        "totalReturn": -15.26,
+        "maxDrawdown": 17.22,
+        "winRate": 41.7,
+        "profitFactor": 0.62,
+        "totalTrades": 24,
+        "wins": 10,
+        "losses": 14,
+        "name": "Regime SHORT EMA20/50"
+      }
+    ]
+  },
+  "BULL (Aug - Nov 2024)": {
+    "marketReturn": "8.6",
+    "results": [
+      {
+        "totalReturn": -14.56,
+        "maxDrawdown": 14.56,
+        "winRate": 18.2,
+        "profitFactor": 0.3,
+        "totalTrades": 11,
+        "wins": 2,
+        "losses": 9,
+        "name": "Plain SHORT EMA200 SL3%"
+      },
+      {
+        "totalReturn": -10.58,
+        "maxDrawdown": 12.18,
+        "winRate": 20,
+        "profitFactor": 0.51,
+        "totalTrades": 10,
+        "wins": 2,
+        "losses": 8,
+        "name": "Plain SHORT EMA200 SL5%"
+      },
+      {
+        "totalReturn": -18.62,
+        "maxDrawdown": 18.62,
+        "winRate": 10,
+        "profitFactor": 0.12,
+        "totalTrades": 10,
+        "wins": 1,
+        "losses": 9,
+        "name": "Regime SHORT EMA50/200"
+      },
+      {
+        "totalReturn": -7,
+        "maxDrawdown": 10.68,
+        "winRate": 47.4,
+        "profitFactor": 0.74,
+        "totalTrades": 19,
+        "wins": 9,
+        "losses": 10,
+        "name": "Regime SHORT EMA20/50"
+      }
+    ]
+  }
+}

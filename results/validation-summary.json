@@ -1,0 +1,137 @@
+[
+  {
+    "period": "COVID CRASH (Feb-Mej 2020)",
+    "symbol": "BTCUSDT",
+    "regime": "BULL",
+    "marketReturn": -5.4,
+    "bestStrategy": "short200_3",
+    "bestReturn": 5.78,
+    "vsMarket": 11.2
+  },
+  {
+    "period": "COVID CRASH (Feb-Mej 2020)",
+    "symbol": "ETHUSDT",
+    "regime": "RANGE",
+    "marketReturn": -29.1,
+    "bestStrategy": "short50_3",
+    "bestReturn": 31.03,
+    "vsMarket": 60.1
+  },
+  {
+    "period": "COVID CRASH (Feb-Mej 2020)",
+    "symbol": "BNBUSDT",
+    "regime": "RANGE",
+    "marketReturn": -37.5,
+    "bestStrategy": "short200_3",
+    "bestReturn": 4.91,
+    "vsMarket": 42.4
+  },
+  {
+    "period": "2022 BEAR (Mei-Sep 2022)",
+    "symbol": "BTCUSDT",
+    "regime": "RANGE",
+    "marketReturn": -46.8,
+    "bestStrategy": "short200_5",
+    "bestReturn": 12.15,
+    "vsMarket": 58.9
+  },
+  {
+    "period": "2022 BEAR (Mei-Sep 2022)",
+    "symbol": "ETHUSDT",
+    "regime": "RANGE",
+    "marketReturn": -43.3,
+    "bestStrategy": "short200_5",
+    "bestReturn": 17.27,
+    "vsMarket": 60.6
+  },
+  {
+    "period": "2022 BEAR (Mei-Sep 2022)",
+    "symbol": "BNBUSDT",
+    "regime": "BEAR",
+    "marketReturn": -26.6,
+    "bestStrategy": "short200_3",
+    "bestReturn": 30.77,
+    "vsMarket": 57.4
+  },
+  {
+    "period": "2022-2023 CRYPTO WINTER (Sep 2022-Feb 2023)",
+    "symbol": "BTCUSDT",
+    "regime": "RANGE",
+    "marketReturn": 15.1,
+    "bestStrategy": "short200_5",
+    "bestReturn": -3.17,
+    "vsMarket": -18.3
+  },
+  {
+    "period": "2022-2023 CRYPTO WINTER (Sep 2022-Feb 2023)",
+    "symbol": "ETHUSDT",
+    "regime": "RANGE",
+    "marketReturn": 2.1,
+    "bestStrategy": "short50_5",
+    "bestReturn": 13.58,
+    "vsMarket": 11.5
+  },
+  {
+    "period": "2022-2023 CRYPTO WINTER (Sep 2022-Feb 2023)",
+    "symbol": "BNBUSDT",
+    "regime": "RANGE",
+    "marketReturn": 12.6,
+    "bestStrategy": "short50_5",
+    "bestReturn": 10.61,
+    "vsMarket": -2
+  },
+  {
+    "period": "2024 BULL (Nov 2024-Feb 2025)",
+    "symbol": "BTCUSDT",
+    "regime": "RANGE",
+    "marketReturn": 46.1,
+    "bestStrategy": "short200_3",
+    "bestReturn": -3.98,
+    "vsMarket": -50.1
+  },
+  {
+    "period": "2024 BULL (Nov 2024-Feb 2025)",
+    "symbol": "ETHUSDT",
+    "regime": "RANGE",
+    "marketReturn": 31.4,
+    "bestStrategy": "short50_3",
+    "bestReturn": -17.5,
+    "vsMarket": -48.9
+  },
+  {
+    "period": "2024 BULL (Nov 2024-Feb 2025)",
+    "symbol": "BNBUSDT",
+    "regime": "RANGE",
+    "marketReturn": 17.8,
+    "bestStrategy": "short200_3",
+    "bestReturn": -17.74,
+    "vsMarket": -35.5
+  },
+  {
+    "period": "2026 BEAR (Jan-Apr 2026)",
+    "symbol": "BTCUSDT",
+    "regime": "RANGE",
+    "marketReturn": -20.6,
+    "bestStrategy": "short200_5",
+    "bestReturn": 13.46,
+    "vsMarket": 34.1
+  },
+  {
+    "period": "2026 BEAR (Jan-Apr 2026)",
+    "symbol": "ETHUSDT",
+    "regime": "RANGE",
+    "marketReturn": -28.8,
+    "bestStrategy": "short200_5",
+    "bestReturn": 2.43,
+    "vsMarket": 31.2
+  },
+  {
+    "period": "2026 BEAR (Jan-Apr 2026)",
+    "symbol": "BNBUSDT",
+    "regime": "RANGE",
+    "marketReturn": -32.8,
+    "bestStrategy": "short200_3",
+    "bestReturn": 15.12,
+    "vsMarket": 47.9
+  }
+]

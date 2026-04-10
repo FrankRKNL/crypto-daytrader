@@ -1,0 +1,853 @@
+{
+  "timeframeResults": [
+    {
+      "name": "15m",
+      "totalReturn": -18.01,
+      "finalValue": 81.99,
+      "maxDrawdown": 35.45,
+      "winRate": 75,
+      "profitFactor": 0.22,
+      "totalTrades": 8,
+      "wins": 6,
+      "losses": 2,
+      "avgWin": 0.761,
+      "avgLoss": 10.563,
+      "trades": [
+        {
+          "price": 92494.834305,
+          "ts": 1768780800000,
+          "dev": 0.021092597539782276,
+          "hour": 0
+        },
+        {
+          "price": 73391.10796000001,
+          "pnl": -20.65383055015354,
+          "ts": 1773410400000,
+          "hour": 14
+        },
+        {
+          "price": 72983.17335,
+          "ts": 1773412200000,
+          "dev": 0.011670515370787147,
+          "hour": 14
+        },
+        {
+          "price": 73659.335015,
+          "pnl": 0.9264624076530392,
+          "ts": 1773631800000,
+          "hour": 3
+        },
+        {
+          "price": 72943.01328,
+          "ts": 1773649800000,
+          "dev": 0.011375350184976624,
+          "hour": 8
+        },
+        {
+          "price": 73343.529435,
+          "pnl": 0.5490809016383436,
+          "ts": 1773656100000,
+          "hour": 10
+        },
+        {
+          "price": 72989.326425,
+          "ts": 1773834300000,
+          "dev": 0.010924871487071476,
+          "hour": 11
+        },
+        {
+          "price": 72644.14009500001,
+          "pnl": -0.47292713456492663,
+          "ts": 1775603700000,
+          "hour": 23
+        },
+        {
+          "price": 72047.995995,
+          "ts": 1775604600000,
+          "dev": 0.011353257929598229,
+          "hour": 23
+        },
+        {
+          "price": 72517.430445,
+          "pnl": 0.6515579559389639,
+          "ts": 1775653200000,
+          "hour": 13
+        },
+        {
+          "price": 71712.028095,
+          "ts": 1775655000000,
+          "dev": 0.01587574798314534,
+          "hour": 13
+        },
+        {
+          "price": 72372.51814000001,
+          "pnl": 0.9210310495263441,
+          "ts": 1775754000000,
+          "hour": 17
+        },
+        {
+          "price": 71930.077065,
+          "ts": 1775757600000,
+          "dev": 0.012680628656676095,
+          "hour": 18
+        },
+        {
+          "price": 72403.621415,
+          "pnl": 0.6583398340753499,
+          "ts": 1775772000000,
+          "hour": 22
+        },
+        {
+          "price": 71981.98300499999,
+          "ts": 1775774700000,
+          "dev": 0.01195658677652322,
+          "hour": 22
+        },
+        {
+          "price": 72600.25602000002,
+          "pnl": 0.8589274554398951,
+          "ts": 1775829600000,
+          "hour": 14
+        }
+      ]
+    },
+    {
+      "name": "5m",
+      "totalReturn": -18.76,
+      "finalValue": 81.24,
+      "maxDrawdown": 35.64,
+      "winRate": 75,
+      "profitFactor": 0.19,
+      "totalTrades": 8,
+      "wins": 6,
+      "losses": 2,
+      "avgWin": 0.685,
+      "avgLoss": 10.735,
+      "trades": [
+        {
+          "price": 93024.18884999999,
+          "ts": 1768780800000,
+          "dev": 0.01565328339949509,
+          "hour": 0
+        },
+        {
+          "price": 73366.76453,
+          "pnl": -21.131519191956915,
+          "ts": 1773409800000,
+          "hour": 13
+        },
+        {
+          "price": 72983.17335,
+          "ts": 1773412800000,
+          "dev": 0.011661930932446808,
+          "hour": 14
+        },
+        {
+          "price": 73618.04704,
+          "pnl": 0.86989049784858,
+          "ts": 1773631800000,
+          "hour": 3
+        },
+        {
+          "price": 72943.01328,
+          "ts": 1773650400000,
+          "dev": 0.011373144581776611,
+          "hour": 8
+        },
+        {
+          "price": 73296.21052000001,
+          "pnl": 0.48420982917749544,
+          "ts": 1773655200000,
+          "hour": 10
+        },
+        {
+          "price": 72890.416995,
+          "ts": 1773833700000,
+          "dev": 0.012266014866925594,
+          "hour": 11
+        },
+        {
+          "price": 72644.14009500001,
+          "pnl": -0.3378728098329953,
+          "ts": 1775604300000,
+          "hour": 23
+        },
+        {
+          "price": 72109.89693,
+          "ts": 1775604900000,
+          "dev": 0.010504914564506165,
+          "hour": 23
+        },
+        {
+          "price": 72535.89271,
+          "pnl": 0.5907591026146131,
+          "ts": 1775653500000,
+          "hour": 13
+        },
+        {
+          "price": 71813.17864499999,
+          "ts": 1775655300000,
+          "dev": 0.01448841296324293,
+          "hour": 13
+        },
+        {
+          "price": 72361.86414500001,
+          "pnl": 0.7640456951674368,
+          "ts": 1775754000000,
+          "hour": 17
+        },
+        {
+          "price": 71957.00051999999,
+          "ts": 1775757600000,
+          "dev": 0.012311526043140014,
+          "hour": 18
+        },
+        {
+          "price": 72348.803765,
+          "pnl": 0.5444963550017778,
+          "ts": 1775768400000,
+          "hour": 21
+        },
+        {
+          "price": 71981.98300499999,
+          "ts": 1775775300000,
+          "dev": 0.011956883139096642,
+          "hour": 22
+        },
+        {
+          "price": 72600.25602000002,
+          "pnl": 0.8589274554398951,
+          "ts": 1775830200000,
+          "hour": 14
+        }
+      ]
+    },
+    {
+      "name": "1h",
+      "totalReturn": -21.16,
+      "finalValue": 78.84,
+      "maxDrawdown": 32.58,
+      "winRate": 0,
+      "profitFactor": 0,
+      "totalTrades": 2,
+      "wins": 0,
+      "losses": 2,
+      "avgWin": 0,
+      "avgLoss": 10.53,
+      "trades": [
+        {
+          "price": 92757.37551,
+          "ts": 1768780800000,
+          "dev": 0.018048743261267996,
+          "hour": 0
+        },
+        {
+          "price": 73462.96002000001,
+          "pnl": -20.80095020359851,
+          "ts": 1773630000000,
+          "hour": 3
+        },
+        {
+          "price": 72989.326425,
+          "ts": 1773831600000,
+          "dev": 0.011052418980282083,
+          "hour": 11
+        },
+        {
+          "price": 72799.63650000001,
+          "pnl": -0.25988721131015025,
+          "ts": 1775829600000,
+          "hour": 14
+        }
+      ]
+    }
+  ],
+  "hourResults": [
+    {
+      "name": "06-09h (morning)",
+      "totalReturn": -12.72,
+      "finalValue": 87.28,
+      "maxDrawdown": 35.45,
+      "winRate": 85.7,
+      "profitFactor": 0.5,
+      "totalTrades": 7,
+      "wins": 6,
+      "losses": 1,
+      "avgWin": 1.742,
+      "avgLoss": 20.735
+    },
+    {
+      "name": "03-06h (late night)",
+      "totalReturn": -13.01,
+      "finalValue": 86.99,
+      "maxDrawdown": 35.45,
+      "winRate": 83.3,
+      "profitFactor": 0.49,
+      "totalTrades": 6,
+      "wins": 5,
+      "losses": 1,
+      "avgWin": 2.046,
+      "avgLoss": 20.9
+    },
+    {
+      "name": "00-03h (night)",
+      "totalReturn": -13.37,
+      "finalValue": 86.63,
+      "maxDrawdown": 35.45,
+      "winRate": 83.3,
+      "profitFactor": 0.46,
+      "totalTrades": 6,
+      "wins": 5,
+      "losses": 1,
+      "avgWin": 1.901,
+      "avgLoss": 20.654
+    },
+    {
+      "name": "21-00h (late night)",
+      "totalReturn": -14.95,
+      "finalValue": 85.05,
+      "maxDrawdown": 35.45,
+      "winRate": 83.3,
+      "profitFactor": 0.37,
+      "totalTrades": 6,
+      "wins": 5,
+      "losses": 1,
+      "avgWin": 1.524,
+      "avgLoss": 20.654
+    },
+    {
+      "name": "09-12h (midday)",
+      "totalReturn": -15.85,
+      "finalValue": 84.15,
+      "maxDrawdown": 35.45,
+      "winRate": 66.7,
+      "profitFactor": 0.36,
+      "totalTrades": 6,
+      "wins": 4,
+      "losses": 2,
+      "avgWin": 1.923,
+      "avgLoss": 10.816
+    },
+    {
+      "name": "15-18h (evening)",
+      "totalReturn": -16.83,
+      "finalValue": 83.17,
+      "maxDrawdown": 35.45,
+      "winRate": 80,
+      "profitFactor": 0.28,
+      "totalTrades": 5,
+      "wins": 4,
+      "losses": 1,
+      "avgWin": 1.473,
+      "avgLoss": 21.152
+    },
+    {
+      "name": "18-21h (night)",
+      "totalReturn": -16.88,
+      "finalValue": 83.12,
+      "maxDrawdown": 35.38,
+      "winRate": 80,
+      "profitFactor": 0.28,
+      "totalTrades": 5,
+      "wins": 4,
+      "losses": 1,
+      "avgWin": 1.48,
+      "avgLoss": 21.209
+    },
+    {
+      "name": "08-23h (all day)",
+      "totalReturn": -18.3,
+      "finalValue": 81.7,
+      "maxDrawdown": 35.45,
+      "winRate": 75,
+      "profitFactor": 0.21,
+      "totalTrades": 8,
+      "wins": 6,
+      "losses": 2,
+      "avgWin": 0.761,
+      "avgLoss": 10.701
+    },
+    {
+      "name": "12-15h (afternoon)",
+      "totalReturn": -19.07,
+      "finalValue": 80.93,
+      "maxDrawdown": 35.45,
+      "winRate": 66.7,
+      "profitFactor": 0.16,
+      "totalTrades": 6,
+      "wins": 4,
+      "losses": 2,
+      "avgWin": 0.861,
+      "avgLoss": 10.686
+    }
+  ],
+  "comboResults": [
+    {
+      "name": "15m all hours",
+      "totalReturn": -18.01,
+      "finalValue": 81.99,
+      "maxDrawdown": 35.45,
+      "winRate": 75,
+      "profitFactor": 0.22,
+      "totalTrades": 8,
+      "wins": 6,
+      "losses": 2,
+      "avgWin": 0.761,
+      "avgLoss": 10.563,
+      "trades": [
+        {
+          "price": 92494.834305,
+          "ts": 1768780800000,
+          "dev": 0.021092597539782276,
+          "hour": 0
+        },
+        {
+          "price": 73391.10796000001,
+          "pnl": -20.65383055015354,
+          "ts": 1773410400000,
+          "hour": 14
+        },
+        {
+          "price": 72983.17335,
+          "ts": 1773412200000,
+          "dev": 0.011670515370787147,
+          "hour": 14
+        },
+        {
+          "price": 73659.335015,
+          "pnl": 0.9264624076530392,
+          "ts": 1773631800000,
+          "hour": 3
+        },
+        {
+          "price": 72943.01328,
+          "ts": 1773649800000,
+          "dev": 0.011375350184976624,
+          "hour": 8
+        },
+        {
+          "price": 73343.529435,
+          "pnl": 0.5490809016383436,
+          "ts": 1773656100000,
+          "hour": 10
+        },
+        {
+          "price": 72989.326425,
+          "ts": 1773834300000,
+          "dev": 0.010924871487071476,
+          "hour": 11
+        },
+        {
+          "price": 72644.14009500001,
+          "pnl": -0.47292713456492663,
+          "ts": 1775603700000,
+          "hour": 23
+        },
+        {
+          "price": 72047.995995,
+          "ts": 1775604600000,
+          "dev": 0.011353257929598229,
+          "hour": 23
+        },
+        {
+          "price": 72517.430445,
+          "pnl": 0.6515579559389639,
+          "ts": 1775653200000,
+          "hour": 13
+        },
+        {
+          "price": 71712.028095,
+          "ts": 1775655000000,
+          "dev": 0.01587574798314534,
+          "hour": 13
+        },
+        {
+          "price": 72372.51814000001,
+          "pnl": 0.9210310495263441,
+          "ts": 1775754000000,
+          "hour": 17
+        },
+        {
+          "price": 71930.077065,
+          "ts": 1775757600000,
+          "dev": 0.012680628656676095,
+          "hour": 18
+        },
+        {
+          "price": 72403.621415,
+          "pnl": 0.6583398340753499,
+          "ts": 1775772000000,
+          "hour": 22
+        },
+        {
+          "price": 71981.98300499999,
+          "ts": 1775774700000,
+          "dev": 0.01195658677652322,
+          "hour": 22
+        },
+        {
+          "price": 72600.25602000002,
+          "pnl": 0.8589274554398951,
+          "ts": 1775829600000,
+          "hour": 14
+        }
+      ]
+    },
+    {
+      "name": "15m + 08-16h",
+      "totalReturn": -18.03,
+      "finalValue": 81.97,
+      "maxDrawdown": 35.45,
+      "winRate": 71.4,
+      "profitFactor": 0.22,
+      "totalTrades": 7,
+      "wins": 5,
+      "losses": 2,
+      "avgWin": 0.961,
+      "avgLoss": 10.701
+    },
+    {
+      "name": "15m + 12-18h",
+      "totalReturn": -18.62,
+      "finalValue": 81.38,
+      "maxDrawdown": 35.45,
+      "winRate": 71.4,
+      "profitFactor": 0.19,
+      "totalTrades": 7,
+      "wins": 5,
+      "losses": 2,
+      "avgWin": 0.82,
+      "avgLoss": 10.686
+    },
+    {
+      "name": "15m + 09-17h",
+      "totalReturn": -18.85,
+      "finalValue": 81.15,
+      "maxDrawdown": 35.45,
+      "winRate": 66.7,
+      "profitFactor": 0.18,
+      "totalTrades": 6,
+      "wins": 4,
+      "losses": 2,
+      "avgWin": 0.995,
+      "avgLoss": 10.816
+    },
+    {
+      "name": "5m + 09-17h",
+      "totalReturn": -19.11,
+      "finalValue": 80.89,
+      "maxDrawdown": 35.64,
+      "winRate": 66.7,
+      "profitFactor": 0.17,
+      "totalTrades": 6,
+      "wins": 4,
+      "losses": 2,
+      "avgWin": 0.937,
+      "avgLoss": 10.84
+    }
+  ],
+  "threshResults": [
+    {
+      "name": "dev=0.03",
+      "totalReturn": -13,
+      "finalValue": 87,
+      "maxDrawdown": 32.46,
+      "winRate": 66.7,
+      "profitFactor": 0.34,
+      "totalTrades": 6,
+      "wins": 4,
+      "losses": 2,
+      "avgWin": 1.493,
+      "avgLoss": 8.83
+    },
+    {
+      "name": "dev=0.02",
+      "totalReturn": -15.42,
+      "finalValue": 84.58,
+      "maxDrawdown": 34.08,
+      "winRate": 80,
+      "profitFactor": 0.26,
+      "totalTrades": 5,
+      "wins": 4,
+      "losses": 1,
+      "avgWin": 1.229,
+      "avgLoss": 19.038
+    },
+    {
+      "name": "dev=0.025",
+      "totalReturn": -16.28,
+      "finalValue": 83.72,
+      "maxDrawdown": 34.08,
+      "winRate": 80,
+      "profitFactor": 0.22,
+      "totalTrades": 5,
+      "wins": 4,
+      "losses": 1,
+      "avgWin": 1.078,
+      "avgLoss": 19.394
+    },
+    {
+      "name": "dev=0.015",
+      "totalReturn": -18.03,
+      "finalValue": 81.97,
+      "maxDrawdown": 35.45,
+      "winRate": 83.3,
+      "profitFactor": 0.22,
+      "totalTrades": 6,
+      "wins": 5,
+      "losses": 1,
+      "avgWin": 0.933,
+      "avgLoss": 21.272
+    },
+    {
+      "name": "dev=0.008",
+      "totalReturn": -18.04,
+      "finalValue": 81.96,
+      "maxDrawdown": 35.45,
+      "winRate": 77.8,
+      "profitFactor": 0.24,
+      "totalTrades": 9,
+      "wins": 7,
+      "losses": 2,
+      "avgWin": 0.739,
+      "avgLoss": 10.798
+    },
+    {
+      "name": "dev=0.012",
+      "totalReturn": -18.13,
+      "finalValue": 81.87,
+      "maxDrawdown": 35.45,
+      "winRate": 66.7,
+      "profitFactor": 0.22,
+      "totalTrades": 6,
+      "wins": 4,
+      "losses": 2,
+      "avgWin": 1.191,
+      "avgLoss": 10.744
+    },
+    {
+      "name": "dev=0.01",
+      "totalReturn": -18.85,
+      "finalValue": 81.15,
+      "maxDrawdown": 35.45,
+      "winRate": 66.7,
+      "profitFactor": 0.18,
+      "totalTrades": 6,
+      "wins": 4,
+      "losses": 2,
+      "avgWin": 0.995,
+      "avgLoss": 10.816
+    },
+    {
+      "name": "dev=0.005",
+      "totalReturn": -19.39,
+      "finalValue": 80.61,
+      "maxDrawdown": 35.45,
+      "winRate": 75,
+      "profitFactor": 0.16,
+      "totalTrades": 8,
+      "wins": 6,
+      "losses": 2,
+      "avgWin": 0.567,
+      "avgLoss": 10.798
+    }
+  ],
+  "hourly": [
+    {
+      "hour": 15,
+      "avgReturn": 0.030550355233484497,
+      "winRate": 56.824512534818936,
+      "count": 359
+    },
+    {
+      "hour": 19,
+      "avgReturn": 0.019415618679008338,
+      "winRate": 49.72222222222222,
+      "count": 360
+    },
+    {
+      "hour": 0,
+      "avgReturn": 0.016377320521870836,
+      "winRate": 48.333333333333336,
+      "count": 360
+    },
+    {
+      "hour": 7,
+      "avgReturn": 0.014882759153367387,
+      "winRate": 50.83333333333333,
+      "count": 360
+    },
+    {
+      "hour": 9,
+      "avgReturn": 0.012804677388830576,
+      "winRate": 53.05555555555556,
+      "count": 360
+    },
+    {
+      "hour": 20,
+      "avgReturn": 0.009374032298334733,
+      "winRate": 54.44444444444444,
+      "count": 360
+    },
+    {
+      "hour": 8,
+      "avgReturn": 0.0051775744025881745,
+      "winRate": 50.55555555555556,
+      "count": 360
+    },
+    {
+      "hour": 12,
+      "avgReturn": 0.004388454680660737,
+      "winRate": 51.94444444444445,
+      "count": 360
+    },
+    {
+      "hour": 1,
+      "avgReturn": 0.0039706527100852925,
+      "winRate": 48.333333333333336,
+      "count": 360
+    },
+    {
+      "hour": 3,
+      "avgReturn": 0.003954634971458025,
+      "winRate": 48.05555555555556,
+      "count": 360
+    },
+    {
+      "hour": 21,
+      "avgReturn": 0.0036024913885143,
+      "winRate": 50.83333333333333,
+      "count": 360
+    },
+    {
+      "hour": 4,
+      "avgReturn": 0.0012413143893049538,
+      "winRate": 48.888888888888886,
+      "count": 360
+    },
+    {
+      "hour": 11,
+      "avgReturn": 0.00013730214858168638,
+      "winRate": 50.83333333333333,
+      "count": 360
+    },
+    {
+      "hour": 22,
+      "avgReturn": -0.0002521483160501956,
+      "winRate": 48.888888888888886,
+      "count": 360
+    },
+    {
+      "hour": 18,
+      "avgReturn": -0.006753818797607018,
+      "winRate": 50,
+      "count": 360
+    },
+    {
+      "hour": 5,
+      "avgReturn": -0.007530007209665545,
+      "winRate": 46.666666666666664,
+      "count": 360
+    },
+    {
+      "hour": 16,
+      "avgReturn": -0.010376664270178457,
+      "winRate": 49.72222222222222,
+      "count": 360
+    },
+    {
+      "hour": 13,
+      "avgReturn": -0.011548056912003526,
+      "winRate": 48.333333333333336,
+      "count": 360
+    },
+    {
+      "hour": 14,
+      "avgReturn": -0.01717619618296381,
+      "winRate": 51.94444444444445,
+      "count": 360
+    },
+    {
+      "hour": 2,
+      "avgReturn": -0.019073933975643793,
+      "winRate": 48.05555555555556,
+      "count": 360
+    },
+    {
+      "hour": 23,
+      "avgReturn": -0.019925110189105207,
+      "winRate": 48.05555555555556,
+      "count": 360
+    },
+    {
+      "hour": 10,
+      "avgReturn": -0.02036861821336084,
+      "winRate": 48.61111111111111,
+      "count": 360
+    },
+    {
+      "hour": 6,
+      "avgReturn": -0.030692751053218247,
+      "winRate": 47.77777777777778,
+      "count": 360
+    },
+    {
+      "hour": 17,
+      "avgReturn": -0.03197409324078697,
+      "winRate": 46.38888888888889,
+      "count": 360
+    }
+  ],
+  "dow": [
+    {
+      "day": "Mon",
+      "dow": 1,
+      "avgReturn": 0.012569177836591259,
+      "winRate": 50.80128205128205,
+      "count": 1248
+    },
+    {
+      "day": "Fri",
+      "dow": 5,
+      "avgReturn": 0.008262613877992767,
+      "winRate": 51.6075845012366,
+      "count": 1213
+    },
+    {
+      "day": "Wed",
+      "dow": 3,
+      "avgReturn": 0.0033576725357271388,
+      "winRate": 49.118589743589745,
+      "count": 1248
+    },
+    {
+      "day": "Tue",
+      "dow": 2,
+      "avgReturn": -0.0008494976866199358,
+      "winRate": 49.83974358974359,
+      "count": 1248
+    },
+    {
+      "day": "Sun",
+      "dow": 0,
+      "avgReturn": -0.005882375420466627,
+      "winRate": 51.041666666666664,
+      "count": 1248
+    },
+    {
+      "day": "Sat",
+      "dow": 6,
+      "avgReturn": -0.00755718976018051,
+      "winRate": 49.4097807757167,
+      "count": 1186
+    },
+    {
+      "day": "Thu",
+      "dow": 4,
+      "avgReturn": -0.024432308736131277,
+      "winRate": 47.355769230769226,
+      "count": 1248
+    }
+  ],
+  "marketReturn": "-19.5"
+}

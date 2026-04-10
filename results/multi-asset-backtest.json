@@ -1,0 +1,77 @@
+[
+  {
+    "asset": "Bitcoin",
+    "symbol": "BTCUSDT",
+    "marketReturn": -19.7,
+    "strategyReturn": -18.52,
+    "outperformance": 1.2,
+    "winRate": 66.7,
+    "profitFactor": 0.1,
+    "trades": 3,
+    "regimes": {
+      "BULL": 336,
+      "BEAR": 478,
+      "RANGING": 7806
+    }
+  },
+  {
+    "asset": "Ethereum",
+    "symbol": "ETHUSDT",
+    "marketReturn": -27.6,
+    "strategyReturn": -26.22,
+    "outperformance": 1.4,
+    "winRate": 75,
+    "profitFactor": 0.12,
+    "trades": 4,
+    "regimes": {
+      "BULL": 591,
+      "BEAR": 784,
+      "RANGING": 7245
+    }
+  },
+  {
+    "asset": "Binance Coin",
+    "symbol": "BNBUSDT",
+    "marketReturn": -33.1,
+    "strategyReturn": -32.21,
+    "outperformance": 0.9,
+    "winRate": 66.7,
+    "profitFactor": 0.09,
+    "trades": 3,
+    "regimes": {
+      "BULL": 278,
+      "BEAR": 449,
+      "RANGING": 7893
+    }
+  },
+  {
+    "asset": "Solana",
+    "symbol": "SOLUSDT",
+    "marketReturn": -37.7,
+    "strategyReturn": -34.96,
+    "outperformance": 2.7,
+    "winRate": 66.7,
+    "profitFactor": 0.09,
+    "trades": 3,
+    "regimes": {
+      "BULL": 664,
+      "BEAR": 851,
+      "RANGING": 7105
+    }
+  },
+  {
+    "asset": "Ripple",
+    "symbol": "XRPUSDT",
+    "marketReturn": -35.3,
+    "strategyReturn": -23.61,
+    "outperformance": 11.7,
+    "winRate": 75,
+    "profitFactor": 0.24,
+    "trades": 8,
+    "regimes": {
+      "BULL": 611,
+      "BEAR": 671,
+      "RANGING": 7338
+    }
+  }
+]
