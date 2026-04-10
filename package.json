@@ -1,0 +1,14 @@
+{
+  "name": "crypto-daytrader",
+  "version": "1.0.0",
+  "description": "Autonomous crypto day trading research - regime-aware VWAP strategy",
+  "type": "module",
+  "scripts": {
+    "test": "node regime-aware-test.mjs",
+    "multi-period": "node multi-period-test.mjs",
+    "optimize": "node vwap-optimizer.mjs"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}

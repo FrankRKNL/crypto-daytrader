@@ -1,0 +1,2729 @@
+[
+  {
+    "name": "Regime: BULL=long, BEAR=flat, RANGE=flat",
+    "totalReturn": 37.05,
+    "finalValue": 137.05,
+    "maxDrawdown": 2.13,
+    "winRate": 59.6,
+    "profitFactor": 7.95,
+    "totalTrades": 52,
+    "wins": 31,
+    "losses": 21,
+    "avgWin": 1.379,
+    "avgLoss": 0.256,
+    "trades": [
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 87646.2012,
+        "ts": 1769013900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 88352.70185499999,
+        "pnl": 0.8060824603086214,
+        "ts": 1769021100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 89285.88062999999,
+        "ts": 1769171400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 89133.928255,
+        "pnl": -0.17018634293328727,
+        "ts": 1769172300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 87590.35329,
+        "ts": 1769535900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 87538.704685,
+        "pnl": -0.05896608822776317,
+        "ts": 1769536800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 75125.544,
+        "ts": 1770009300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 76434.49602,
+        "pnl": 1.742352800799707,
+        "ts": 1770014700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 76608.274995,
+        "ts": 1770017400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 76545.798815,
+        "pnl": -0.08155278265183918,
+        "ts": 1770018300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65072.58003,
+        "ts": 1770361200000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 64758.716,
+        "pnl": -0.48232916207610055,
+        "ts": 1770363900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65141.45445,
+        "ts": 1770364800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69417.13787,
+        "pnl": 6.563690442745407,
+        "ts": 1770394500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69100.27287,
+        "ts": 1770523200000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69130.738115,
+        "pnl": 0.044088458315227896,
+        "ts": 1770524100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69395.86058999998,
+        "ts": 1770533100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69606.123965,
+        "pnl": 0.3029912349416408,
+        "ts": 1770536700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69656.811,
+        "ts": 1770537600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70260.59079,
+        "pnl": 0.8667921791596145,
+        "ts": 1770539400000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68643.174435,
+        "ts": 1770645600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69459.024945,
+        "pnl": 1.188538433304176,
+        "ts": 1770651900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66160.56375,
+        "ts": 1770827400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66507.30917000001,
+        "pnl": 0.524096834044907,
+        "ts": 1770831000000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66945.15585,
+        "ts": 1770977700000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 68279.42700000001,
+        "pnl": 1.9930809526975235,
+        "ts": 1770994800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68971.44849,
+        "ts": 1771051500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69115.43111,
+        "pnl": 0.2087568452631361,
+        "ts": 1771055100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 62963.005769999996,
+        "ts": 1771939800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 63358.809015,
+        "pnl": 0.6286282558457312,
+        "ts": 1771944300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 64532.239994999996,
+        "ts": 1771965000000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 63975.872030000006,
+        "pnl": -0.862155048458102,
+        "ts": 1771974000000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 64217.102504999995,
+        "ts": 1771974900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 64161.2136,
+        "pnl": -0.08703118455966052,
+        "ts": 1771979400000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65601.36429,
+        "ts": 1772013600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 65270.137715000004,
+        "pnl": -0.5049080588259702,
+        "ts": 1772014500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65456.67197999999,
+        "ts": 1772015400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67852.58822,
+        "pnl": 3.66030867064564,
+        "ts": 1772037000000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 64100.644304999994,
+        "ts": 1772283600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 63933.45575,
+        "pnl": -0.26082195711557565,
+        "ts": 1772284500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65138.99322,
+        "ts": 1772286300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 64725.7655,
+        "pnl": -0.6343784261515384,
+        "ts": 1772287200000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 64467.82780499999,
+        "ts": 1772289900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 65812.97224,
+        "pnl": 2.0865359991168786,
+        "ts": 1772304300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65301.344354999994,
+        "ts": 1772405100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 65537.28639000001,
+        "pnl": 0.3613126763782226,
+        "ts": 1772406900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66292.82985,
+        "ts": 1772446500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 68453.166,
+        "pnl": 3.2587779928661575,
+        "ts": 1772464500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66894.560565,
+        "ts": 1772544600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66720.718575,
+        "pnl": -0.25987462737135925,
+        "ts": 1772550900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67562.974605,
+        "ts": 1772551800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67624.221285,
+        "pnl": 0.09065124849532147,
+        "ts": 1772552700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67766.0661,
+        "ts": 1772595900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70965.981115,
+        "pnl": 4.722002027206362,
+        "ts": 1772614800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71358.0612,
+        "ts": 1772620200000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 71241.89662,
+        "pnl": -0.16279111013738357,
+        "ts": 1772621100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71463.43385999999,
+        "ts": 1772622000000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 71118.851465,
+        "pnl": -0.48218001345281536,
+        "ts": 1772622900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71144.77461,
+        "ts": 1772623800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 72862.691775,
+        "pnl": 2.4146779217690373,
+        "ts": 1772637300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66004.1856,
+        "ts": 1773013500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66224.943355,
+        "pnl": 0.33446023610963493,
+        "ts": 1773014400000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66403.19500499999,
+        "ts": 1773017100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66381.128725,
+        "pnl": -0.033230750415436106,
+        "ts": 1773018900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67848.597345,
+        "ts": 1773045900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67731.280455,
+        "pnl": -0.17290982362312413,
+        "ts": 1773046800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67671.93905999999,
+        "ts": 1773055800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67808.37464000001,
+        "pnl": 0.20161322683402982,
+        "ts": 1773057600000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68466.37608,
+        "ts": 1773099900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69091.76666000001,
+        "pnl": 0.9134273139697946,
+        "ts": 1773102600000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69975.01001999999,
+        "ts": 1773117000000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69967.83059000001,
+        "pnl": -0.010259991385386247,
+        "ts": 1773117900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69187.39641,
+        "ts": 1773230400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70114.45033,
+        "pnl": 1.339917337698826,
+        "ts": 1773234900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 70199.572245,
+        "ts": 1773348300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70183.67633500001,
+        "pnl": -0.022643884416440052,
+        "ts": 1773350100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71969.96699999999,
+        "ts": 1773390600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 71713.28847000001,
+        "pnl": -0.3566467245982974,
+        "ts": 1773391500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71791.29771,
+        "ts": 1773392400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 71898.56014500001,
+        "pnl": 0.14940868659778506,
+        "ts": 1773395100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 72567.52562999999,
+        "ts": 1773621900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 72536.421915,
+        "pnl": -0.042861754937850716,
+        "ts": 1773623700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68596.281,
+        "ts": 1774246500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70596.51614500002,
+        "pnl": 2.915952754056761,
+        "ts": 1774264500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69412.018665,
+        "ts": 1774381500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69907.311505,
+        "pnl": 0.7135548706491468,
+        "ts": 1774383300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65893.24015499999,
+        "ts": 1774824300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66002.956835,
+        "pnl": 0.1665067307995871,
+        "ts": 1774825200000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66043.015005,
+        "ts": 1774826100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66232.032705,
+        "pnl": 0.286203923285,
+        "ts": 1774830600000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66832.41951,
+        "ts": 1774959300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66804.08334000001,
+        "pnl": -0.04239883907802833,
+        "ts": 1774960200000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66964.74564,
+        "ts": 1774972800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66995.605625,
+        "pnl": 0.0460839277519387,
+        "ts": 1774973700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67459.19274,
+        "ts": 1775413800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67556.86247500002,
+        "pnl": 0.14478343281760786,
+        "ts": 1775421900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67510.10818499999,
+        "ts": 1775423700000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 68235.922355,
+        "pnl": 1.075119251788248,
+        "ts": 1775429100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68223.25458,
+        "ts": 1775574900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67988.98332,
+        "pnl": -0.3433891587879101,
+        "ts": 1775575800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68426.14597499999,
+        "ts": 1775578500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 68217.809565,
+        "pnl": -0.304469011123476,
+        "ts": 1775579400000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68264.104995,
+        "ts": 1775580300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70313.481335,
+        "pnl": 3.002128776390034,
+        "ts": 1775600100000
+      }
+    ],
+    "regimeStats": {
+      "BULL": {
+        "trades": 52,
+        "pnl": 0
+      },
+      "BEAR": {
+        "trades": 0,
+        "pnl": 0
+      },
+      "RANGING": {
+        "trades": 52,
+        "pnl": 37.37654116232437
+      }
+    }
+  },
+  {
+    "name": "Long ONLY in BULL, flat otherwise",
+    "totalReturn": 37.05,
+    "finalValue": 137.05,
+    "maxDrawdown": 2.13,
+    "winRate": 59.6,
+    "profitFactor": 7.95,
+    "totalTrades": 52,
+    "wins": 31,
+    "losses": 21,
+    "avgWin": 1.379,
+    "avgLoss": 0.256,
+    "trades": [
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 87646.2012,
+        "ts": 1769013900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 88352.70185499999,
+        "pnl": 0.8060824603086214,
+        "ts": 1769021100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 89285.88062999999,
+        "ts": 1769171400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 89133.928255,
+        "pnl": -0.17018634293328727,
+        "ts": 1769172300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 87590.35329,
+        "ts": 1769535900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 87538.704685,
+        "pnl": -0.05896608822776317,
+        "ts": 1769536800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 75125.544,
+        "ts": 1770009300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 76434.49602,
+        "pnl": 1.742352800799707,
+        "ts": 1770014700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 76608.274995,
+        "ts": 1770017400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 76545.798815,
+        "pnl": -0.08155278265183918,
+        "ts": 1770018300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65072.58003,
+        "ts": 1770361200000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 64758.716,
+        "pnl": -0.48232916207610055,
+        "ts": 1770363900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65141.45445,
+        "ts": 1770364800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69417.13787,
+        "pnl": 6.563690442745407,
+        "ts": 1770394500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69100.27287,
+        "ts": 1770523200000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69130.738115,
+        "pnl": 0.044088458315227896,
+        "ts": 1770524100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69395.86058999998,
+        "ts": 1770533100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69606.123965,
+        "pnl": 0.3029912349416408,
+        "ts": 1770536700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69656.811,
+        "ts": 1770537600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70260.59079,
+        "pnl": 0.8667921791596145,
+        "ts": 1770539400000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68643.174435,
+        "ts": 1770645600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69459.024945,
+        "pnl": 1.188538433304176,
+        "ts": 1770651900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66160.56375,
+        "ts": 1770827400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66507.30917000001,
+        "pnl": 0.524096834044907,
+        "ts": 1770831000000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66945.15585,
+        "ts": 1770977700000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 68279.42700000001,
+        "pnl": 1.9930809526975235,
+        "ts": 1770994800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68971.44849,
+        "ts": 1771051500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69115.43111,
+        "pnl": 0.2087568452631361,
+        "ts": 1771055100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 62963.005769999996,
+        "ts": 1771939800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 63358.809015,
+        "pnl": 0.6286282558457312,
+        "ts": 1771944300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 64532.239994999996,
+        "ts": 1771965000000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 63975.872030000006,
+        "pnl": -0.862155048458102,
+        "ts": 1771974000000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 64217.102504999995,
+        "ts": 1771974900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 64161.2136,
+        "pnl": -0.08703118455966052,
+        "ts": 1771979400000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65601.36429,
+        "ts": 1772013600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 65270.137715000004,
+        "pnl": -0.5049080588259702,
+        "ts": 1772014500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65456.67197999999,
+        "ts": 1772015400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67852.58822,
+        "pnl": 3.66030867064564,
+        "ts": 1772037000000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 64100.644304999994,
+        "ts": 1772283600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 63933.45575,
+        "pnl": -0.26082195711557565,
+        "ts": 1772284500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65138.99322,
+        "ts": 1772286300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 64725.7655,
+        "pnl": -0.6343784261515384,
+        "ts": 1772287200000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 64467.82780499999,
+        "ts": 1772289900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 65812.97224,
+        "pnl": 2.0865359991168786,
+        "ts": 1772304300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65301.344354999994,
+        "ts": 1772405100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 65537.28639000001,
+        "pnl": 0.3613126763782226,
+        "ts": 1772406900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66292.82985,
+        "ts": 1772446500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 68453.166,
+        "pnl": 3.2587779928661575,
+        "ts": 1772464500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66894.560565,
+        "ts": 1772544600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66720.718575,
+        "pnl": -0.25987462737135925,
+        "ts": 1772550900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67562.974605,
+        "ts": 1772551800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67624.221285,
+        "pnl": 0.09065124849532147,
+        "ts": 1772552700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67766.0661,
+        "ts": 1772595900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70965.981115,
+        "pnl": 4.722002027206362,
+        "ts": 1772614800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71358.0612,
+        "ts": 1772620200000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 71241.89662,
+        "pnl": -0.16279111013738357,
+        "ts": 1772621100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71463.43385999999,
+        "ts": 1772622000000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 71118.851465,
+        "pnl": -0.48218001345281536,
+        "ts": 1772622900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71144.77461,
+        "ts": 1772623800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 72862.691775,
+        "pnl": 2.4146779217690373,
+        "ts": 1772637300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66004.1856,
+        "ts": 1773013500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66224.943355,
+        "pnl": 0.33446023610963493,
+        "ts": 1773014400000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66403.19500499999,
+        "ts": 1773017100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66381.128725,
+        "pnl": -0.033230750415436106,
+        "ts": 1773018900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67848.597345,
+        "ts": 1773045900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67731.280455,
+        "pnl": -0.17290982362312413,
+        "ts": 1773046800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67671.93905999999,
+        "ts": 1773055800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67808.37464000001,
+        "pnl": 0.20161322683402982,
+        "ts": 1773057600000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68466.37608,
+        "ts": 1773099900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69091.76666000001,
+        "pnl": 0.9134273139697946,
+        "ts": 1773102600000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69975.01001999999,
+        "ts": 1773117000000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69967.83059000001,
+        "pnl": -0.010259991385386247,
+        "ts": 1773117900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69187.39641,
+        "ts": 1773230400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70114.45033,
+        "pnl": 1.339917337698826,
+        "ts": 1773234900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 70199.572245,
+        "ts": 1773348300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70183.67633500001,
+        "pnl": -0.022643884416440052,
+        "ts": 1773350100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71969.96699999999,
+        "ts": 1773390600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 71713.28847000001,
+        "pnl": -0.3566467245982974,
+        "ts": 1773391500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71791.29771,
+        "ts": 1773392400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 71898.56014500001,
+        "pnl": 0.14940868659778506,
+        "ts": 1773395100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 72567.52562999999,
+        "ts": 1773621900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 72536.421915,
+        "pnl": -0.042861754937850716,
+        "ts": 1773623700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68596.281,
+        "ts": 1774246500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70596.51614500002,
+        "pnl": 2.915952754056761,
+        "ts": 1774264500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69412.018665,
+        "ts": 1774381500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69907.311505,
+        "pnl": 0.7135548706491468,
+        "ts": 1774383300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65893.24015499999,
+        "ts": 1774824300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66002.956835,
+        "pnl": 0.1665067307995871,
+        "ts": 1774825200000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66043.015005,
+        "ts": 1774826100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66232.032705,
+        "pnl": 0.286203923285,
+        "ts": 1774830600000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66832.41951,
+        "ts": 1774959300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66804.08334000001,
+        "pnl": -0.04239883907802833,
+        "ts": 1774960200000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66964.74564,
+        "ts": 1774972800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66995.605625,
+        "pnl": 0.0460839277519387,
+        "ts": 1774973700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67459.19274,
+        "ts": 1775413800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67556.86247500002,
+        "pnl": 0.14478343281760786,
+        "ts": 1775421900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67510.10818499999,
+        "ts": 1775423700000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 68235.922355,
+        "pnl": 1.075119251788248,
+        "ts": 1775429100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68223.25458,
+        "ts": 1775574900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67988.98332,
+        "pnl": -0.3433891587879101,
+        "ts": 1775575800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68426.14597499999,
+        "ts": 1775578500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 68217.809565,
+        "pnl": -0.304469011123476,
+        "ts": 1775579400000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68264.104995,
+        "ts": 1775580300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70313.481335,
+        "pnl": 3.002128776390034,
+        "ts": 1775600100000
+      }
+    ],
+    "regimeStats": {
+      "BULL": {
+        "trades": 52,
+        "pnl": 0
+      },
+      "BEAR": {
+        "trades": 0,
+        "pnl": 0
+      },
+      "RANGING": {
+        "trades": 52,
+        "pnl": 37.37654116232437
+      }
+    }
+  },
+  {
+    "name": "Regime: BULL=long, BEAR=short, RANGE=flat",
+    "totalReturn": 36.06,
+    "finalValue": 136.06,
+    "maxDrawdown": 2.56,
+    "winRate": 58.9,
+    "profitFactor": 7.7,
+    "totalTrades": 56,
+    "wins": 33,
+    "losses": 23,
+    "avgWin": 1.313,
+    "avgLoss": 0.245,
+    "trades": [
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 95403.33447,
+        "ts": 1768763700000
+      },
+      {
+        "regime": "BEAR",
+        "action": "CLOSE SHORT",
+        "price": 95555.98930499998,
+        "pnl": -0.15975433472069644,
+        "ts": 1768764600000
+      },
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 95393.49939000001,
+        "ts": 1768767300000
+      },
+      {
+        "regime": "BEAR",
+        "action": "CLOSE SHORT",
+        "price": 95480.53629499998,
+        "pnl": -0.09115669892244549,
+        "ts": 1768768200000
+      },
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 95382.72478,
+        "ts": 1768772700000
+      },
+      {
+        "regime": "BEAR",
+        "action": "CLOSE SHORT",
+        "price": 95215.61951499998,
+        "pnl": 0.17550194584796674,
+        "ts": 1768777200000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 87646.2012,
+        "ts": 1769013900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 88352.70185499999,
+        "pnl": 0.8060824603086214,
+        "ts": 1769021100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 89285.88062999999,
+        "ts": 1769171400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 89133.928255,
+        "pnl": -0.17018634293328727,
+        "ts": 1769172300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 87590.35329,
+        "ts": 1769535900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 87538.704685,
+        "pnl": -0.05896608822776317,
+        "ts": 1769536800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 75125.544,
+        "ts": 1770009300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 76434.49602,
+        "pnl": 1.742352800799707,
+        "ts": 1770014700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 76608.274995,
+        "ts": 1770017400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 76545.798815,
+        "pnl": -0.08155278265183918,
+        "ts": 1770018300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65072.58003,
+        "ts": 1770361200000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 64758.716,
+        "pnl": -0.48232916207610055,
+        "ts": 1770363900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65141.45445,
+        "ts": 1770364800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69417.13787,
+        "pnl": 6.563690442745407,
+        "ts": 1770394500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69100.27287,
+        "ts": 1770523200000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69130.738115,
+        "pnl": 0.044088458315227896,
+        "ts": 1770524100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69395.86058999998,
+        "ts": 1770533100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69606.123965,
+        "pnl": 0.3029912349416408,
+        "ts": 1770536700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69656.811,
+        "ts": 1770537600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70260.59079,
+        "pnl": 0.8667921791596145,
+        "ts": 1770539400000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68643.174435,
+        "ts": 1770645600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69459.024945,
+        "pnl": 1.188538433304176,
+        "ts": 1770651900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66160.56375,
+        "ts": 1770827400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66507.30917000001,
+        "pnl": 0.524096834044907,
+        "ts": 1770831000000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66945.15585,
+        "ts": 1770977700000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 68279.42700000001,
+        "pnl": 1.9930809526975235,
+        "ts": 1770994800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68971.44849,
+        "ts": 1771051500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69115.43111,
+        "pnl": 0.2087568452631361,
+        "ts": 1771055100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 62963.005769999996,
+        "ts": 1771939800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 63358.809015,
+        "pnl": 0.6286282558457312,
+        "ts": 1771944300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 64532.239994999996,
+        "ts": 1771965000000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 63975.872030000006,
+        "pnl": -0.862155048458102,
+        "ts": 1771974000000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 64217.102504999995,
+        "ts": 1771974900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 64161.2136,
+        "pnl": -0.08703118455966052,
+        "ts": 1771979400000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65601.36429,
+        "ts": 1772013600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 65270.137715000004,
+        "pnl": -0.5049080588259702,
+        "ts": 1772014500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65456.67197999999,
+        "ts": 1772015400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67852.58822,
+        "pnl": 3.66030867064564,
+        "ts": 1772037000000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 64100.644304999994,
+        "ts": 1772283600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 63933.45575,
+        "pnl": -0.26082195711557565,
+        "ts": 1772284500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65138.99322,
+        "ts": 1772286300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 64725.7655,
+        "pnl": -0.6343784261515384,
+        "ts": 1772287200000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 64467.82780499999,
+        "ts": 1772289900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 65812.97224,
+        "pnl": 2.0865359991168786,
+        "ts": 1772304300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65301.344354999994,
+        "ts": 1772405100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 65537.28639000001,
+        "pnl": 0.3613126763782226,
+        "ts": 1772406900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66292.82985,
+        "ts": 1772446500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 68453.166,
+        "pnl": 3.2587779928661575,
+        "ts": 1772464500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66894.560565,
+        "ts": 1772544600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66720.718575,
+        "pnl": -0.25987462737135925,
+        "ts": 1772550900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67562.974605,
+        "ts": 1772551800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67624.221285,
+        "pnl": 0.09065124849532147,
+        "ts": 1772552700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67766.0661,
+        "ts": 1772595900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70965.981115,
+        "pnl": 4.722002027206362,
+        "ts": 1772614800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71358.0612,
+        "ts": 1772620200000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 71241.89662,
+        "pnl": -0.16279111013738357,
+        "ts": 1772621100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71463.43385999999,
+        "ts": 1772622000000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 71118.851465,
+        "pnl": -0.48218001345281536,
+        "ts": 1772622900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71144.77461,
+        "ts": 1772623800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 72862.691775,
+        "pnl": 2.4146779217690373,
+        "ts": 1772637300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66004.1856,
+        "ts": 1773013500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66224.943355,
+        "pnl": 0.33446023610963493,
+        "ts": 1773014400000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66403.19500499999,
+        "ts": 1773017100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66381.128725,
+        "pnl": -0.033230750415436106,
+        "ts": 1773018900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67848.597345,
+        "ts": 1773045900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67731.280455,
+        "pnl": -0.17290982362312413,
+        "ts": 1773046800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67671.93905999999,
+        "ts": 1773055800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67808.37464000001,
+        "pnl": 0.20161322683402982,
+        "ts": 1773057600000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68466.37608,
+        "ts": 1773099900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69091.76666000001,
+        "pnl": 0.9134273139697946,
+        "ts": 1773102600000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69975.01001999999,
+        "ts": 1773117000000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69967.83059000001,
+        "pnl": -0.010259991385386247,
+        "ts": 1773117900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69187.39641,
+        "ts": 1773230400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70114.45033,
+        "pnl": 1.339917337698826,
+        "ts": 1773234900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 70199.572245,
+        "ts": 1773348300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70183.67633500001,
+        "pnl": -0.022643884416440052,
+        "ts": 1773350100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71969.96699999999,
+        "ts": 1773390600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 71713.28847000001,
+        "pnl": -0.3566467245982974,
+        "ts": 1773391500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 71791.29771,
+        "ts": 1773392400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 71898.56014500001,
+        "pnl": 0.14940868659778506,
+        "ts": 1773395100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 72567.52562999999,
+        "ts": 1773621900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 72536.421915,
+        "pnl": -0.042861754937850716,
+        "ts": 1773623700000
+      },
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 75586.098045,
+        "ts": 1773711900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 75284.75799999999,
+        "pnl": 0.4002670035812894,
+        "ts": 1773713700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68596.281,
+        "ts": 1774246500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70596.51614500002,
+        "pnl": 2.915952754056761,
+        "ts": 1774264500000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 69412.018665,
+        "ts": 1774381500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 69907.311505,
+        "pnl": 0.7135548706491468,
+        "ts": 1774383300000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 65893.24015499999,
+        "ts": 1774824300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66002.956835,
+        "pnl": 0.1665067307995871,
+        "ts": 1774825200000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66043.015005,
+        "ts": 1774826100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66232.032705,
+        "pnl": 0.286203923285,
+        "ts": 1774830600000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66832.41951,
+        "ts": 1774959300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66804.08334000001,
+        "pnl": -0.04239883907802833,
+        "ts": 1774960200000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 66964.74564,
+        "ts": 1774972800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 66995.605625,
+        "pnl": 0.0460839277519387,
+        "ts": 1774973700000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67459.19274,
+        "ts": 1775413800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67556.86247500002,
+        "pnl": 0.14478343281760786,
+        "ts": 1775421900000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 67510.10818499999,
+        "ts": 1775423700000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 68235.922355,
+        "pnl": 1.075119251788248,
+        "ts": 1775429100000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68223.25458,
+        "ts": 1775574900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 67988.98332,
+        "pnl": -0.3433891587879101,
+        "ts": 1775575800000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68426.14597499999,
+        "ts": 1775578500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 68217.809565,
+        "pnl": -0.304469011123476,
+        "ts": 1775579400000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 68264.104995,
+        "ts": 1775580300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 70313.481335,
+        "pnl": 3.002128776390034,
+        "ts": 1775600100000
+      }
+    ],
+    "regimeStats": {
+      "BULL": {
+        "trades": 52,
+        "pnl": 0
+      },
+      "BEAR": {
+        "trades": 7,
+        "pnl": -0.07540908779517519
+      },
+      "RANGING": {
+        "trades": 53,
+        "pnl": 37.77680816590566
+      }
+    }
+  },
+  {
+    "name": "ALWAYS FLAT (cash)",
+    "totalReturn": 0,
+    "finalValue": 100,
+    "maxDrawdown": 0,
+    "winRate": 0,
+    "profitFactor": 0,
+    "totalTrades": 0,
+    "wins": 0,
+    "losses": 0,
+    "avgWin": 0,
+    "avgLoss": 0,
+    "trades": [],
+    "regimeStats": {
+      "BULL": {
+        "trades": 0,
+        "pnl": 0
+      },
+      "BEAR": {
+        "trades": 0,
+        "pnl": 0
+      },
+      "RANGING": {
+        "trades": 0,
+        "pnl": 0
+      }
+    }
+  },
+  {
+    "name": "Short ONLY in BEAR, flat otherwise",
+    "totalReturn": -0.72,
+    "finalValue": 99.28,
+    "maxDrawdown": 0.92,
+    "winRate": 50,
+    "profitFactor": 2.29,
+    "totalTrades": 4,
+    "wins": 2,
+    "losses": 2,
+    "avgWin": 0.288,
+    "avgLoss": 0.125,
+    "trades": [
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 95403.33447,
+        "ts": 1768763700000
+      },
+      {
+        "regime": "BEAR",
+        "action": "CLOSE SHORT",
+        "price": 95555.98930499998,
+        "pnl": -0.15975433472069644,
+        "ts": 1768764600000
+      },
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 95393.49939000001,
+        "ts": 1768767300000
+      },
+      {
+        "regime": "BEAR",
+        "action": "CLOSE SHORT",
+        "price": 95480.53629499998,
+        "pnl": -0.09115669892244549,
+        "ts": 1768768200000
+      },
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 95382.72478,
+        "ts": 1768772700000
+      },
+      {
+        "regime": "BEAR",
+        "action": "CLOSE SHORT",
+        "price": 95215.61951499998,
+        "pnl": 0.17550194584796674,
+        "ts": 1768777200000
+      },
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 75586.098045,
+        "ts": 1773711900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 75284.75799999999,
+        "pnl": 0.4002670035812894,
+        "ts": 1773713700000
+      }
+    ],
+    "regimeStats": {
+      "BULL": {
+        "trades": 0,
+        "pnl": 0
+      },
+      "BEAR": {
+        "trades": 7,
+        "pnl": -0.07540908779517519
+      },
+      "RANGING": {
+        "trades": 1,
+        "pnl": 0.4002670035812894
+      }
+    }
+  },
+  {
+    "name": "Regime: BULL=long, BEAR=short, RANGE=short",
+    "totalReturn": -16.3,
+    "finalValue": 83.7,
+    "maxDrawdown": 33.77,
+    "winRate": 30,
+    "profitFactor": 0.06,
+    "totalTrades": 20,
+    "wins": 6,
+    "losses": 14,
+    "avgWin": 0.199,
+    "avgLoss": 1.475,
+    "trades": [
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 91886.31386000001,
+        "ts": 1768185000000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 92121.97599999998,
+        "pnl": -0.25581533335755635,
+        "ts": 1768188600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 92054.06994,
+        "ts": 1768190400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 92185.60129499999,
+        "pnl": -0.14268101867566108,
+        "ts": 1768191300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 92152.350775,
+        "ts": 1768192200000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 92102.94749999998,
+        "pnl": 0.053639189994458825,
+        "ts": 1768198500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 92171.51119,
+        "ts": 1768234500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 92101.56542999997,
+        "pnl": 0.07594415976912572,
+        "ts": 1768237200000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 92383.775005,
+        "ts": 1768294800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 92286.88298999998,
+        "pnl": 0.10499001793193852,
+        "ts": 1768296600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 92387.41318500001,
+        "ts": 1768313700000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 92535.72569499999,
+        "pnl": -0.1602759462748682,
+        "ts": 1768317300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 93403.26500500001,
+        "ts": 1768319100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 95341.65828999999,
+        "pnl": -2.0331021295056484,
+        "ts": 1768508100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 95222.80478,
+        "ts": 1768509000000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 95375.44889999999,
+        "pnl": -0.16004550621829816,
+        "ts": 1768537800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 95361.885205,
+        "ts": 1768539600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 95375.44889999999,
+        "pnl": -0.014221369499622938,
+        "ts": 1768573800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 95527.122545,
+        "ts": 1768575600000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 94863.992865,
+        "pnl": 0.6990320141212036,
+        "ts": 1768576500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 95505.82320000001,
+        "ts": 1768596300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 95427.48683999998,
+        "pnl": 0.08208993298899347,
+        "ts": 1768615200000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 95323.664325,
+        "ts": 1768617900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 95454.60745999998,
+        "pnl": -0.1371784332724335,
+        "ts": 1768618800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 95325.263525,
+        "ts": 1768621500000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 95468.94893999999,
+        "pnl": -0.15050486738917845,
+        "ts": 1768622400000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 95321.95518,
+        "ts": 1768655700000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 95458.20284499998,
+        "pnl": -0.14273018026664808,
+        "ts": 1768668300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 95365.15357000001,
+        "ts": 1768670100000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 95500.27586,
+        "pnl": -0.14148890019759497,
+        "ts": 1768671900000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 95389.471405,
+        "ts": 1768672800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE SHORT",
+        "price": 95479.63494499998,
+        "pnl": -0.09443222112434091,
+        "ts": 1768677300000
+      },
+      {
+        "regime": "RANGING",
+        "action": "SHORT",
+        "price": 95391.88020000001,
+        "ts": 1768761900000
+      },
+      {
+        "regime": "BEAR",
+        "action": "CLOSE SHORT",
+        "price": 95555.98930499998,
+        "pnl": -0.1717413070531415,
+        "ts": 1768764600000
+      },
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 95393.49939000001,
+        "ts": 1768767300000
+      },
+      {
+        "regime": "BEAR",
+        "action": "CLOSE SHORT",
+        "price": 95480.53629499998,
+        "pnl": -0.09115669892244549,
+        "ts": 1768768200000
+      },
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 95382.72478,
+        "ts": 1768772700000
+      },
+      {
+        "regime": "BEAR",
+        "action": "CLOSE SHORT",
+        "price": 95215.61951499998,
+        "pnl": 0.17550194584796674,
+        "ts": 1768777200000
+      },
+      {
+        "regime": "BULL",
+        "action": "LONG",
+        "price": 87646.2012,
+        "ts": 1769013900000
+      },
+      {
+        "regime": "EOD",
+        "action": "CLOSE LONG",
+        "price": 72791.16922000001,
+        "pnl": -16.948860049395943,
+        "ts": 1775830500000
+      }
+    ],
+    "regimeStats": {
+      "BULL": {
+        "trades": 1,
+        "pnl": 0
+      },
+      "BEAR": {
+        "trades": 5,
+        "pnl": -0.08739606012762025
+      },
+      "RANGING": {
+        "trades": 33,
+        "pnl": -2.416780590976131
+      }
+    }
+  },
+  {
+    "name": "ALWAYS LONG (baseline)",
+    "totalReturn": -19.35,
+    "finalValue": 80.65,
+    "maxDrawdown": 35.45,
+    "winRate": 0,
+    "profitFactor": 0,
+    "totalTrades": 2,
+    "wins": 0,
+    "losses": 2,
+    "avgWin": 0,
+    "avgLoss": 9.721,
+    "trades": [
+      {
+        "regime": "RANGING",
+        "action": "LONG",
+        "price": 92494.834305,
+        "ts": 1768780800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 74762.2881,
+        "pnl": -19.17139085467978,
+        "ts": 1773698400000
+      },
+      {
+        "regime": "BEAR",
+        "action": "LONG",
+        "price": 72989.326425,
+        "ts": 1773834300000
+      },
+      {
+        "regime": "EOD",
+        "action": "CLOSE LONG",
+        "price": 72791.16922000001,
+        "pnl": -0.27148792118750764,
+        "ts": 1775830500000
+      }
+    ],
+    "regimeStats": {
+      "BULL": {
+        "trades": 0,
+        "pnl": 0
+      },
+      "BEAR": {
+        "trades": 1,
+        "pnl": 0
+      },
+      "RANGING": {
+        "trades": 2,
+        "pnl": -19.17139085467978
+      }
+    }
+  },
+  {
+    "name": "Regime: BULL=long, BEAR=short, RANGE=long",
+    "totalReturn": -20.6,
+    "finalValue": 79.4,
+    "maxDrawdown": 35.45,
+    "winRate": 50,
+    "profitFactor": 0.13,
+    "totalTrades": 6,
+    "wins": 3,
+    "losses": 3,
+    "avgWin": 0.867,
+    "avgLoss": 6.474,
+    "trades": [
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 95403.33447,
+        "ts": 1768763700000
+      },
+      {
+        "regime": "BEAR",
+        "action": "CLOSE SHORT",
+        "price": 95555.98930499998,
+        "pnl": -0.15975433472069644,
+        "ts": 1768764600000
+      },
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 95393.49939000001,
+        "ts": 1768767300000
+      },
+      {
+        "regime": "BEAR",
+        "action": "CLOSE SHORT",
+        "price": 95480.53629499998,
+        "pnl": -0.09115669892244549,
+        "ts": 1768768200000
+      },
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 95382.72478,
+        "ts": 1768772700000
+      },
+      {
+        "regime": "BEAR",
+        "action": "CLOSE SHORT",
+        "price": 95215.61951499998,
+        "pnl": 0.17550194584796674,
+        "ts": 1768777200000
+      },
+      {
+        "regime": "RANGING",
+        "action": "LONG",
+        "price": 92494.834305,
+        "ts": 1768780800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "CLOSE LONG",
+        "price": 74762.2881,
+        "pnl": -19.17139085467978,
+        "ts": 1773698400000
+      },
+      {
+        "regime": "BEAR",
+        "action": "SHORT",
+        "price": 75586.098045,
+        "ts": 1773711900000
+      },
+      {
+        "regime": "BEAR",
+        "action": "CLOSE SHORT",
+        "price": 74121.02501499998,
+        "pnl": 1.9765957495913478,
+        "ts": 1773820800000
+      },
+      {
+        "regime": "RANGING",
+        "action": "LONG",
+        "price": 72465.604695,
+        "ts": 1773837000000
+      },
+      {
+        "regime": "EOD",
+        "action": "CLOSE LONG",
+        "price": 72791.16922000001,
+        "pnl": 0.4492676579051169,
+        "ts": 1775830500000
+      }
+    ],
+    "regimeStats": {
+      "BULL": {
+        "trades": 0,
+        "pnl": 0
+      },
+      "BEAR": {
+        "trades": 8,
+        "pnl": 1.9011866617961726
+      },
+      "RANGING": {
+        "trades": 3,
+        "pnl": -19.17139085467978
+      }
+    }
+  }
+]

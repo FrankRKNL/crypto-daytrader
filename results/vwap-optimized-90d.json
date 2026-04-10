@@ -1,0 +1,311 @@
+[
+  {
+    "label": "OPTIMAL (dev=1%, exp=0.3%, EMA20, RSI50)",
+    "totalReturn": -18.52,
+    "finalValue": 81.48,
+    "maxDrawdown": 35.45,
+    "winRate": 0,
+    "profitFactor": 0,
+    "totalTrades": 2,
+    "avgWin": 0,
+    "avgLoss": 20.343,
+    "trades": [
+      {
+        "action": "LONG",
+        "price": 92815.994805,
+        "ts": 1768809600000,
+        "date": "2026-01-19T08:00:00.000Z"
+      },
+      {
+        "action": "CLOSE",
+        "price": 73934.301945,
+        "pnl": -20.343145488737292,
+        "ts": 1773639000000,
+        "date": "2026-03-16T05:30:00.000Z"
+      },
+      {
+        "action": "LONG",
+        "price": 71282.16326999999,
+        "ts": 1773877500000,
+        "date": "2026-03-18T23:45:00.000Z"
+      },
+      {
+        "action": "CLOSE (end)",
+        "price": 72982.98,
+        "pnl": 0
+      }
+    ]
+  },
+  {
+    "label": "dev=0.8%",
+    "totalReturn": -18.52,
+    "finalValue": 81.48,
+    "maxDrawdown": 35.45,
+    "winRate": 0,
+    "profitFactor": 0,
+    "totalTrades": 2,
+    "avgWin": 0,
+    "avgLoss": 20.343,
+    "trades": [
+      {
+        "action": "LONG",
+        "price": 92815.994805,
+        "ts": 1768809600000,
+        "date": "2026-01-19T08:00:00.000Z"
+      },
+      {
+        "action": "CLOSE",
+        "price": 73934.301945,
+        "pnl": -20.343145488737292,
+        "ts": 1773639000000,
+        "date": "2026-03-16T05:30:00.000Z"
+      },
+      {
+        "action": "LONG",
+        "price": 71282.16326999999,
+        "ts": 1773877500000,
+        "date": "2026-03-18T23:45:00.000Z"
+      },
+      {
+        "action": "CLOSE (end)",
+        "price": 72982.98,
+        "pnl": 0
+      }
+    ]
+  },
+  {
+    "label": "dev=1.2%",
+    "totalReturn": -18.52,
+    "finalValue": 81.48,
+    "maxDrawdown": 35.45,
+    "winRate": 0,
+    "profitFactor": 0,
+    "totalTrades": 2,
+    "avgWin": 0,
+    "avgLoss": 20.343,
+    "trades": [
+      {
+        "action": "LONG",
+        "price": 92815.994805,
+        "ts": 1768809600000,
+        "date": "2026-01-19T08:00:00.000Z"
+      },
+      {
+        "action": "CLOSE",
+        "price": 73934.301945,
+        "pnl": -20.343145488737292,
+        "ts": 1773639000000,
+        "date": "2026-03-16T05:30:00.000Z"
+      },
+      {
+        "action": "LONG",
+        "price": 71282.16326999999,
+        "ts": 1773877500000,
+        "date": "2026-03-18T23:45:00.000Z"
+      },
+      {
+        "action": "CLOSE (end)",
+        "price": 72982.98,
+        "pnl": 0
+      }
+    ]
+  },
+  {
+    "label": "exp=0.5%",
+    "totalReturn": -18.35,
+    "finalValue": 81.65,
+    "maxDrawdown": 35.45,
+    "winRate": 0,
+    "profitFactor": 0,
+    "totalTrades": 2,
+    "avgWin": 0,
+    "avgLoss": 20.169,
+    "trades": [
+      {
+        "action": "LONG",
+        "price": 92815.994805,
+        "ts": 1768809600000,
+        "date": "2026-01-19T08:00:00.000Z"
+      },
+      {
+        "action": "CLOSE",
+        "price": 74096.178765,
+        "pnl": -20.16873932055464,
+        "ts": 1773639900000,
+        "date": "2026-03-16T05:45:00.000Z"
+      },
+      {
+        "action": "LONG",
+        "price": 71282.16326999999,
+        "ts": 1773877500000,
+        "date": "2026-03-18T23:45:00.000Z"
+      },
+      {
+        "action": "CLOSE (end)",
+        "price": 72982.98,
+        "pnl": 0
+      }
+    ]
+  },
+  {
+    "label": "EMA50",
+    "totalReturn": -17.88,
+    "finalValue": 82.12,
+    "maxDrawdown": 35.45,
+    "winRate": 0,
+    "profitFactor": 0,
+    "totalTrades": 2,
+    "avgWin": 0,
+    "avgLoss": 20.797,
+    "trades": [
+      {
+        "action": "LONG",
+        "price": 93347.99066999998,
+        "ts": 1768842900000,
+        "date": "2026-01-19T17:15:00.000Z"
+      },
+      {
+        "action": "CLOSE",
+        "price": 73934.301945,
+        "pnl": -20.797114737724208,
+        "ts": 1773639000000,
+        "date": "2026-03-16T05:30:00.000Z"
+      },
+      {
+        "action": "LONG",
+        "price": 70317.60123,
+        "ts": 1773947700000,
+        "date": "2026-03-19T19:15:00.000Z"
+      },
+      {
+        "action": "CLOSE (end)",
+        "price": 72982.98,
+        "pnl": 0
+      }
+    ]
+  },
+  {
+    "label": "RSI30",
+    "totalReturn": -18.52,
+    "finalValue": 81.48,
+    "maxDrawdown": 35.45,
+    "winRate": 0,
+    "profitFactor": 0,
+    "totalTrades": 2,
+    "avgWin": 0,
+    "avgLoss": 20.343,
+    "trades": [
+      {
+        "action": "LONG",
+        "price": 92815.994805,
+        "ts": 1768809600000,
+        "date": "2026-01-19T08:00:00.000Z"
+      },
+      {
+        "action": "CLOSE",
+        "price": 73934.301945,
+        "pnl": -20.343145488737292,
+        "ts": 1773639000000,
+        "date": "2026-03-16T05:30:00.000Z"
+      },
+      {
+        "action": "LONG",
+        "price": 71282.16326999999,
+        "ts": 1773877500000,
+        "date": "2026-03-18T23:45:00.000Z"
+      },
+      {
+        "action": "CLOSE (end)",
+        "price": 72982.98,
+        "pnl": 0
+      }
+    ]
+  },
+  {
+    "label": "NO FILTERS",
+    "totalReturn": -19.23,
+    "finalValue": 80.77,
+    "maxDrawdown": 35.45,
+    "winRate": 50,
+    "profitFactor": 0.06,
+    "totalTrades": 3,
+    "avgWin": 1.253,
+    "avgLoss": 20.067,
+    "trades": [
+      {
+        "action": "LONG",
+        "price": 92494.834305,
+        "ts": 1768780800000,
+        "date": "2026-01-19T00:00:00.000Z"
+      },
+      {
+        "action": "CLOSE",
+        "price": 73934.301945,
+        "pnl": -20.06656101333939,
+        "ts": 1773639000000,
+        "date": "2026-03-16T05:30:00.000Z"
+      },
+      {
+        "action": "LONG",
+        "price": 72943.01328,
+        "ts": 1773649800000,
+        "date": "2026-03-16T08:30:00.000Z"
+      },
+      {
+        "action": "CLOSE",
+        "price": 73856.90821000001,
+        "pnl": 1.2528889182188196,
+        "ts": 1773666000000,
+        "date": "2026-03-16T13:00:00.000Z"
+      },
+      {
+        "action": "LONG",
+        "price": 72989.326425,
+        "ts": 1773834300000,
+        "date": "2026-03-18T11:45:00.000Z"
+      },
+      {
+        "action": "CLOSE (end)",
+        "price": 72982.98,
+        "pnl": 0
+      }
+    ]
+  },
+  {
+    "label": "wider dev+exit",
+    "totalReturn": -18.35,
+    "finalValue": 81.65,
+    "maxDrawdown": 35.45,
+    "winRate": 0,
+    "profitFactor": 0,
+    "totalTrades": 2,
+    "avgWin": 0,
+    "avgLoss": 20.169,
+    "trades": [
+      {
+        "action": "LONG",
+        "price": 92815.994805,
+        "ts": 1768809600000,
+        "date": "2026-01-19T08:00:00.000Z"
+      },
+      {
+        "action": "CLOSE",
+        "price": 74096.178765,
+        "pnl": -20.16873932055464,
+        "ts": 1773639900000,
+        "date": "2026-03-16T05:45:00.000Z"
+      },
+      {
+        "action": "LONG",
+        "price": 71282.16326999999,
+        "ts": 1773877500000,
+        "date": "2026-03-18T23:45:00.000Z"
+      },
+      {
+        "action": "CLOSE (end)",
+        "price": 72982.98,
+        "pnl": 0
+      }
+    ]
+  }
+]
