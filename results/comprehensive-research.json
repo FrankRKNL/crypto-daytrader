@@ -1,0 +1,2957 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "period": "2023",
+    "market": 156.31,
+    "results": [
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": 78.85,
+        "vsMarket": -77.46,
+        "maxDrawdown": 20.48,
+        "winRate": 46.2,
+        "profitFactor": 0.84,
+        "totalTrades": 145
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": 62.21,
+        "vsMarket": -94.1,
+        "maxDrawdown": 21.92,
+        "winRate": 44.4,
+        "profitFactor": 0.61,
+        "totalTrades": 133
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": 58.3,
+        "vsMarket": -98.01,
+        "maxDrawdown": 17.54,
+        "winRate": 45.9,
+        "profitFactor": 0.93,
+        "totalTrades": 146
+      },
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": 57.35,
+        "vsMarket": -98.96,
+        "maxDrawdown": 29.37,
+        "winRate": 42.9,
+        "profitFactor": 0.69,
+        "totalTrades": 70
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": 40.29,
+        "vsMarket": -116.02,
+        "maxDrawdown": 22.92,
+        "winRate": 36.1,
+        "profitFactor": 0.54,
+        "totalTrades": 122
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": 40.29,
+        "vsMarket": -116.02,
+        "maxDrawdown": 22.92,
+        "winRate": 36.1,
+        "profitFactor": 0.54,
+        "totalTrades": 122
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": 36.35,
+        "vsMarket": -119.96,
+        "maxDrawdown": 36.15,
+        "winRate": 43.1,
+        "profitFactor": 0.62,
+        "totalTrades": 255
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": 25.51,
+        "vsMarket": -130.8,
+        "maxDrawdown": 20.73,
+        "winRate": 48.5,
+        "profitFactor": 1,
+        "totalTrades": 68
+      },
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": 13.24,
+        "vsMarket": -143.07,
+        "maxDrawdown": 24.59,
+        "winRate": 43.1,
+        "profitFactor": 0.76,
+        "totalTrades": 106
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": 4.41,
+        "vsMarket": -151.9,
+        "maxDrawdown": 5.94,
+        "winRate": 53.3,
+        "profitFactor": 2.2,
+        "totalTrades": 7
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": 4.23,
+        "vsMarket": -152.08,
+        "maxDrawdown": 26.67,
+        "winRate": 40.3,
+        "profitFactor": 0.73,
+        "totalTrades": 186
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": 3.19,
+        "vsMarket": -153.12,
+        "maxDrawdown": 5.94,
+        "winRate": 53.3,
+        "profitFactor": 1.96,
+        "totalTrades": 8
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": 3.19,
+        "vsMarket": -153.12,
+        "maxDrawdown": 5.94,
+        "winRate": 53.3,
+        "profitFactor": 1.96,
+        "totalTrades": 8
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": 3.19,
+        "vsMarket": -153.12,
+        "maxDrawdown": 5.94,
+        "winRate": 53.3,
+        "profitFactor": 1.96,
+        "totalTrades": 8
+      },
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": -1.56,
+        "vsMarket": -157.87,
+        "maxDrawdown": 5.57,
+        "winRate": 50,
+        "profitFactor": 1.29,
+        "totalTrades": 3
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": -1.56,
+        "vsMarket": -157.87,
+        "maxDrawdown": 5.57,
+        "winRate": 50,
+        "profitFactor": 1.29,
+        "totalTrades": 3
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": -4.37,
+        "vsMarket": -160.68,
+        "maxDrawdown": 38.61,
+        "winRate": 14,
+        "profitFactor": 0.92,
+        "totalTrades": 214
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": -6.94,
+        "vsMarket": -163.25,
+        "maxDrawdown": 32.63,
+        "winRate": 22.7,
+        "profitFactor": 0.91,
+        "totalTrades": 194
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": -42.06,
+        "vsMarket": -198.37,
+        "maxDrawdown": 49.19,
+        "winRate": 17.9,
+        "profitFactor": 0.72,
+        "totalTrades": 223
+      }
+    ]
+  },
+  {
+    "symbol": "BTCUSDT",
+    "period": "2024",
+    "market": 117.66,
+    "results": [
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": 48.07,
+        "vsMarket": -69.59,
+        "maxDrawdown": 30.87,
+        "winRate": 44.5,
+        "profitFactor": 0.78,
+        "totalTrades": 146
+      },
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": 43.85,
+        "vsMarket": -73.81,
+        "maxDrawdown": 31.33,
+        "winRate": 45.9,
+        "profitFactor": 1.11,
+        "totalTrades": 74
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": 41.02,
+        "vsMarket": -76.64,
+        "maxDrawdown": 29.85,
+        "winRate": 47.1,
+        "profitFactor": 0.87,
+        "totalTrades": 244
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": 18.51,
+        "vsMarket": -99.15,
+        "maxDrawdown": 26.95,
+        "winRate": 53.7,
+        "profitFactor": 1.47,
+        "totalTrades": 67
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": 13.42,
+        "vsMarket": -104.24,
+        "maxDrawdown": 39.16,
+        "winRate": 43.2,
+        "profitFactor": 0.63,
+        "totalTrades": 155
+      },
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": 12.76,
+        "vsMarket": -104.9,
+        "maxDrawdown": 21.01,
+        "winRate": 43,
+        "profitFactor": 0.5,
+        "totalTrades": 98
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": 11.91,
+        "vsMarket": -105.75,
+        "maxDrawdown": 38.47,
+        "winRate": 47.2,
+        "profitFactor": 0.98,
+        "totalTrades": 123
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": 1.46,
+        "vsMarket": -116.2,
+        "maxDrawdown": 36.39,
+        "winRate": 15.4,
+        "profitFactor": 1.13,
+        "totalTrades": 221
+      },
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": -1.28,
+        "vsMarket": -118.94,
+        "maxDrawdown": 5.98,
+        "winRate": 29.2,
+        "profitFactor": 0.66,
+        "totalTrades": 12
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": -1.28,
+        "vsMarket": -118.94,
+        "maxDrawdown": 5.98,
+        "winRate": 29.2,
+        "profitFactor": 0.66,
+        "totalTrades": 12
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": -9.62,
+        "vsMarket": -127.28,
+        "maxDrawdown": 37.03,
+        "winRate": 24.9,
+        "profitFactor": 0.98,
+        "totalTrades": 181
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": -10.09,
+        "vsMarket": -127.75,
+        "maxDrawdown": 33.15,
+        "winRate": 20.8,
+        "profitFactor": 0.91,
+        "totalTrades": 207
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": -10.39,
+        "vsMarket": -128.05,
+        "maxDrawdown": 11.37,
+        "winRate": 40.9,
+        "profitFactor": 0.35,
+        "totalTrades": 11
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": -10.39,
+        "vsMarket": -128.05,
+        "maxDrawdown": 11.37,
+        "winRate": 40.9,
+        "profitFactor": 0.35,
+        "totalTrades": 11
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": -10.39,
+        "vsMarket": -128.05,
+        "maxDrawdown": 11.37,
+        "winRate": 40.9,
+        "profitFactor": 0.35,
+        "totalTrades": 11
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": -10.39,
+        "vsMarket": -128.05,
+        "maxDrawdown": 11.37,
+        "winRate": 40.9,
+        "profitFactor": 0.35,
+        "totalTrades": 11
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": -26.75,
+        "vsMarket": -144.41,
+        "maxDrawdown": 45.41,
+        "winRate": 45.1,
+        "profitFactor": 0.76,
+        "totalTrades": 113
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": -26.75,
+        "vsMarket": -144.41,
+        "maxDrawdown": 45.41,
+        "winRate": 45.1,
+        "profitFactor": 0.76,
+        "totalTrades": 113
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": -33.67,
+        "vsMarket": -151.33,
+        "maxDrawdown": 41.36,
+        "winRate": 48.9,
+        "profitFactor": 0.92,
+        "totalTrades": 180
+      }
+    ]
+  },
+  {
+    "symbol": "BTCUSDT",
+    "period": "2025",
+    "market": -23.77,
+    "results": [
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": -2.83,
+        "vsMarket": 20.94,
+        "maxDrawdown": 12.16,
+        "winRate": 39.4,
+        "profitFactor": 0.86,
+        "totalTrades": 16
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": -2.83,
+        "vsMarket": 20.94,
+        "maxDrawdown": 12.16,
+        "winRate": 39.4,
+        "profitFactor": 0.86,
+        "totalTrades": 16
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": -8.79,
+        "vsMarket": 14.98,
+        "maxDrawdown": 8.97,
+        "winRate": 21.1,
+        "profitFactor": 0.19,
+        "totalTrades": 9
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": -8.79,
+        "vsMarket": 14.98,
+        "maxDrawdown": 8.97,
+        "winRate": 21.1,
+        "profitFactor": 0.19,
+        "totalTrades": 9
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": -8.79,
+        "vsMarket": 14.98,
+        "maxDrawdown": 8.97,
+        "winRate": 21.1,
+        "profitFactor": 0.19,
+        "totalTrades": 9
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": -8.79,
+        "vsMarket": 14.98,
+        "maxDrawdown": 8.97,
+        "winRate": 21.1,
+        "profitFactor": 0.19,
+        "totalTrades": 9
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": -30,
+        "vsMarket": -6.23,
+        "maxDrawdown": 53.37,
+        "winRate": 53.7,
+        "profitFactor": 1.19,
+        "totalTrades": 162
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": -31.31,
+        "vsMarket": -7.54,
+        "maxDrawdown": 44.39,
+        "winRate": 41,
+        "profitFactor": 0.84,
+        "totalTrades": 100
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": -31.73,
+        "vsMarket": -7.96,
+        "maxDrawdown": 50.97,
+        "winRate": 56.3,
+        "profitFactor": 1.35,
+        "totalTrades": 151
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": -31.73,
+        "vsMarket": -7.96,
+        "maxDrawdown": 50.97,
+        "winRate": 56.3,
+        "profitFactor": 1.35,
+        "totalTrades": 151
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": -36.14,
+        "vsMarket": -12.37,
+        "maxDrawdown": 48.91,
+        "winRate": 15.3,
+        "profitFactor": 0.73,
+        "totalTrades": 300
+      },
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": -37.77,
+        "vsMarket": -14,
+        "maxDrawdown": 53.84,
+        "winRate": 49.7,
+        "profitFactor": 0.97,
+        "totalTrades": 187
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": -38.5,
+        "vsMarket": -14.73,
+        "maxDrawdown": 51.08,
+        "winRate": 19.5,
+        "profitFactor": 0.61,
+        "totalTrades": 251
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": -39.03,
+        "vsMarket": -15.26,
+        "maxDrawdown": 50.9,
+        "winRate": 50.8,
+        "profitFactor": 0.96,
+        "totalTrades": 195
+      },
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": -44.18,
+        "vsMarket": -20.41,
+        "maxDrawdown": 52.65,
+        "winRate": 48.1,
+        "profitFactor": 1,
+        "totalTrades": 135
+      },
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": -44.78,
+        "vsMarket": -21.01,
+        "maxDrawdown": 56.96,
+        "winRate": 44.8,
+        "profitFactor": 1.21,
+        "totalTrades": 87
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": -47.16,
+        "vsMarket": -23.39,
+        "maxDrawdown": 56.41,
+        "winRate": 47.9,
+        "profitFactor": 0.93,
+        "totalTrades": 240
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": -51.02,
+        "vsMarket": -27.25,
+        "maxDrawdown": 65.07,
+        "winRate": 48,
+        "profitFactor": 0.98,
+        "totalTrades": 321
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": -54.29,
+        "vsMarket": -30.52,
+        "maxDrawdown": 60.99,
+        "winRate": 12.8,
+        "profitFactor": 0.84,
+        "totalTrades": 273
+      }
+    ]
+  },
+  {
+    "symbol": "ETHUSDT",
+    "period": "2023",
+    "market": 92.7,
+    "results": [
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": 74.61,
+        "vsMarket": -18.09,
+        "maxDrawdown": 31.75,
+        "winRate": 47.2,
+        "profitFactor": 0.74,
+        "totalTrades": 72
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": 42.31,
+        "vsMarket": -50.39,
+        "maxDrawdown": 25.37,
+        "winRate": 51.4,
+        "profitFactor": 1.11,
+        "totalTrades": 72
+      },
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": 25.8,
+        "vsMarket": -66.9,
+        "maxDrawdown": 27.41,
+        "winRate": 48.6,
+        "profitFactor": 1.18,
+        "totalTrades": 146
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": 10.7,
+        "vsMarket": -82,
+        "maxDrawdown": 26.41,
+        "winRate": 50.3,
+        "profitFactor": 1.16,
+        "totalTrades": 149
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": 9.93,
+        "vsMarket": -82.77,
+        "maxDrawdown": 38.14,
+        "winRate": 44,
+        "profitFactor": 0.96,
+        "totalTrades": 134
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": 1.76,
+        "vsMarket": -90.94,
+        "maxDrawdown": 30.75,
+        "winRate": 45,
+        "profitFactor": 1,
+        "totalTrades": 120
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": 1.76,
+        "vsMarket": -90.94,
+        "maxDrawdown": 30.75,
+        "winRate": 45,
+        "profitFactor": 1,
+        "totalTrades": 120
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": -0.08,
+        "vsMarket": -92.78,
+        "maxDrawdown": 40.54,
+        "winRate": 42.7,
+        "profitFactor": 0.77,
+        "totalTrades": 255
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": -4,
+        "vsMarket": -96.7,
+        "maxDrawdown": 6.24,
+        "winRate": 26.1,
+        "profitFactor": 0.77,
+        "totalTrades": 11
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": -4,
+        "vsMarket": -96.7,
+        "maxDrawdown": 6.24,
+        "winRate": 26.1,
+        "profitFactor": 0.77,
+        "totalTrades": 11
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": -4,
+        "vsMarket": -96.7,
+        "maxDrawdown": 6.24,
+        "winRate": 26.1,
+        "profitFactor": 0.77,
+        "totalTrades": 11
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": -4,
+        "vsMarket": -96.7,
+        "maxDrawdown": 6.24,
+        "winRate": 26.1,
+        "profitFactor": 0.77,
+        "totalTrades": 11
+      },
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": -4.89,
+        "vsMarket": -97.59,
+        "maxDrawdown": 5.62,
+        "winRate": 12.5,
+        "profitFactor": 0.08,
+        "totalTrades": 8
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": -4.89,
+        "vsMarket": -97.59,
+        "maxDrawdown": 5.62,
+        "winRate": 12.5,
+        "profitFactor": 0.08,
+        "totalTrades": 8
+      },
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": -8.49,
+        "vsMarket": -101.19,
+        "maxDrawdown": 30.82,
+        "winRate": 43.2,
+        "profitFactor": 1.03,
+        "totalTrades": 103
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": -9.43,
+        "vsMarket": -102.13,
+        "maxDrawdown": 42.69,
+        "winRate": 12.9,
+        "profitFactor": 0.98,
+        "totalTrades": 232
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": -10.37,
+        "vsMarket": -103.07,
+        "maxDrawdown": 39.81,
+        "winRate": 21.1,
+        "profitFactor": 0.77,
+        "totalTrades": 204
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": -32.09,
+        "vsMarket": -124.79,
+        "maxDrawdown": 50.64,
+        "winRate": 16,
+        "profitFactor": 0.72,
+        "totalTrades": 243
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": -32.59,
+        "vsMarket": -125.29,
+        "maxDrawdown": 40.08,
+        "winRate": 41.2,
+        "profitFactor": 0.88,
+        "totalTrades": 204
+      }
+    ]
+  },
+  {
+    "symbol": "ETHUSDT",
+    "period": "2024",
+    "market": 45.01,
+    "results": [
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": 35.2,
+        "vsMarket": -9.81,
+        "maxDrawdown": 33.31,
+        "winRate": 57.3,
+        "profitFactor": 1.21,
+        "totalTrades": 75
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": 22.37,
+        "vsMarket": -22.64,
+        "maxDrawdown": 39.61,
+        "winRate": 50,
+        "profitFactor": 1.18,
+        "totalTrades": 150
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": 20.52,
+        "vsMarket": -24.49,
+        "maxDrawdown": 44.56,
+        "winRate": 51.6,
+        "profitFactor": 0.79,
+        "totalTrades": 128
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": 13.96,
+        "vsMarket": -31.05,
+        "maxDrawdown": 42.09,
+        "winRate": 24.5,
+        "profitFactor": 0.91,
+        "totalTrades": 196
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": 12.47,
+        "vsMarket": -32.54,
+        "maxDrawdown": 42.12,
+        "winRate": 48.1,
+        "profitFactor": 0.95,
+        "totalTrades": 77
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": 10.86,
+        "vsMarket": -34.15,
+        "maxDrawdown": 46.01,
+        "winRate": 47.7,
+        "profitFactor": 0.8,
+        "totalTrades": 262
+      },
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": 9.25,
+        "vsMarket": -35.76,
+        "maxDrawdown": 42.57,
+        "winRate": 49.7,
+        "profitFactor": 1.12,
+        "totalTrades": 143
+      },
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": 1.39,
+        "vsMarket": -43.62,
+        "maxDrawdown": 44.01,
+        "winRate": 40.9,
+        "profitFactor": 0.6,
+        "totalTrades": 97
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": 0.44,
+        "vsMarket": -44.57,
+        "maxDrawdown": 8.99,
+        "winRate": 47.4,
+        "profitFactor": 1.21,
+        "totalTrades": 10
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": 0.44,
+        "vsMarket": -44.57,
+        "maxDrawdown": 8.99,
+        "winRate": 47.4,
+        "profitFactor": 1.21,
+        "totalTrades": 10
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": 0.44,
+        "vsMarket": -44.57,
+        "maxDrawdown": 8.99,
+        "winRate": 47.4,
+        "profitFactor": 1.21,
+        "totalTrades": 10
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": 0.24,
+        "vsMarket": -44.77,
+        "maxDrawdown": 7.74,
+        "winRate": 47.4,
+        "profitFactor": 1.21,
+        "totalTrades": 9
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": 0.13,
+        "vsMarket": -44.88,
+        "maxDrawdown": 45.43,
+        "winRate": 50.4,
+        "profitFactor": 0.89,
+        "totalTrades": 121
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": 0.13,
+        "vsMarket": -44.88,
+        "maxDrawdown": 45.43,
+        "winRate": 50.4,
+        "profitFactor": 0.89,
+        "totalTrades": 121
+      },
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": -3.45,
+        "vsMarket": -48.46,
+        "maxDrawdown": 11.63,
+        "winRate": 42.4,
+        "profitFactor": 1.79,
+        "totalTrades": 17
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": -3.45,
+        "vsMarket": -48.46,
+        "maxDrawdown": 11.63,
+        "winRate": 42.4,
+        "profitFactor": 1.79,
+        "totalTrades": 17
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": -22.17,
+        "vsMarket": -67.18,
+        "maxDrawdown": 49.63,
+        "winRate": 19.4,
+        "profitFactor": 0.81,
+        "totalTrades": 242
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": -22.19,
+        "vsMarket": -67.2,
+        "maxDrawdown": 50.55,
+        "winRate": 15.1,
+        "profitFactor": 1.03,
+        "totalTrades": 232
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": -40.91,
+        "vsMarket": -85.92,
+        "maxDrawdown": 51.19,
+        "winRate": 42.2,
+        "profitFactor": 0.75,
+        "totalTrades": 206
+      }
+    ]
+  },
+  {
+    "symbol": "ETHUSDT",
+    "period": "2025",
+    "market": -34.74,
+    "results": [
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": -10.58,
+        "vsMarket": 24.16,
+        "maxDrawdown": 41.04,
+        "winRate": 49.7,
+        "profitFactor": 0.93,
+        "totalTrades": 136
+      },
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": -16.65,
+        "vsMarket": 18.09,
+        "maxDrawdown": 20.43,
+        "winRate": 36.7,
+        "profitFactor": 0.58,
+        "totalTrades": 25
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": -16.65,
+        "vsMarket": 18.09,
+        "maxDrawdown": 20.43,
+        "winRate": 36.7,
+        "profitFactor": 0.58,
+        "totalTrades": 25
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": -20.14,
+        "vsMarket": 14.6,
+        "maxDrawdown": 20.98,
+        "winRate": 34.6,
+        "profitFactor": 0.34,
+        "totalTrades": 13
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": -20.77,
+        "vsMarket": 13.97,
+        "maxDrawdown": 21.61,
+        "winRate": 34.6,
+        "profitFactor": 0.33,
+        "totalTrades": 13
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": -20.77,
+        "vsMarket": 13.97,
+        "maxDrawdown": 21.61,
+        "winRate": 34.6,
+        "profitFactor": 0.33,
+        "totalTrades": 13
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": -20.77,
+        "vsMarket": 13.97,
+        "maxDrawdown": 21.61,
+        "winRate": 34.6,
+        "profitFactor": 0.33,
+        "totalTrades": 13
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": -33.73,
+        "vsMarket": 1.01,
+        "maxDrawdown": 54.44,
+        "winRate": 19.7,
+        "profitFactor": 0.85,
+        "totalTrades": 304
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": -38.03,
+        "vsMarket": -3.29,
+        "maxDrawdown": 50.27,
+        "winRate": 14,
+        "profitFactor": 0.88,
+        "totalTrades": 285
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": -40.15,
+        "vsMarket": -5.41,
+        "maxDrawdown": 52.82,
+        "winRate": 57.6,
+        "profitFactor": 1.31,
+        "totalTrades": 99
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": -41.26,
+        "vsMarket": -6.52,
+        "maxDrawdown": 61.5,
+        "winRate": 49.7,
+        "profitFactor": 1,
+        "totalTrades": 181
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": -43.06,
+        "vsMarket": -8.32,
+        "maxDrawdown": 62.57,
+        "winRate": 48.5,
+        "profitFactor": 0.91,
+        "totalTrades": 206
+      },
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": -47.6,
+        "vsMarket": -12.86,
+        "maxDrawdown": 58.77,
+        "winRate": 53.8,
+        "profitFactor": 1.2,
+        "totalTrades": 93
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": -47.93,
+        "vsMarket": -13.19,
+        "maxDrawdown": 65.1,
+        "winRate": 52.7,
+        "profitFactor": 1.03,
+        "totalTrades": 357
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": -49.83,
+        "vsMarket": -15.09,
+        "maxDrawdown": 62.42,
+        "winRate": 43.5,
+        "profitFactor": 0.74,
+        "totalTrades": 276
+      },
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": -52.28,
+        "vsMarket": -17.54,
+        "maxDrawdown": 59.98,
+        "winRate": 53.4,
+        "profitFactor": 1.2,
+        "totalTrades": 189
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": -53.3,
+        "vsMarket": -18.56,
+        "maxDrawdown": 63.87,
+        "winRate": 24.8,
+        "profitFactor": 0.81,
+        "totalTrades": 250
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": -60.27,
+        "vsMarket": -25.53,
+        "maxDrawdown": 69.49,
+        "winRate": 51.9,
+        "profitFactor": 1.06,
+        "totalTrades": 160
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": -60.27,
+        "vsMarket": -25.53,
+        "maxDrawdown": 69.49,
+        "winRate": 51.9,
+        "profitFactor": 1.06,
+        "totalTrades": 160
+      }
+    ]
+  },
+  {
+    "symbol": "BNBUSDT",
+    "period": "2023",
+    "market": 29.34,
+    "results": [
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": 24.68,
+        "vsMarket": -4.66,
+        "maxDrawdown": 25.82,
+        "winRate": 51.4,
+        "profitFactor": 0.88,
+        "totalTrades": 72
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": 20.92,
+        "vsMarket": -8.42,
+        "maxDrawdown": 22.31,
+        "winRate": 54,
+        "profitFactor": 1,
+        "totalTrades": 124
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": 20.92,
+        "vsMarket": -8.42,
+        "maxDrawdown": 22.31,
+        "winRate": 54,
+        "profitFactor": 1,
+        "totalTrades": 124
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": 11.04,
+        "vsMarket": -18.3,
+        "maxDrawdown": 38.97,
+        "winRate": 45.5,
+        "profitFactor": 0.95,
+        "totalTrades": 154
+      },
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": 3.21,
+        "vsMarket": -26.13,
+        "maxDrawdown": 3.68,
+        "winRate": 46.7,
+        "profitFactor": 3.94,
+        "totalTrades": 7
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": 3.21,
+        "vsMarket": -26.13,
+        "maxDrawdown": 3.68,
+        "winRate": 46.7,
+        "profitFactor": 3.94,
+        "totalTrades": 7
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": -4.33,
+        "vsMarket": -33.67,
+        "maxDrawdown": 39.78,
+        "winRate": 52.3,
+        "profitFactor": 0.85,
+        "totalTrades": 132
+      },
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": -5.52,
+        "vsMarket": -34.86,
+        "maxDrawdown": 42.5,
+        "winRate": 43,
+        "profitFactor": 0.84,
+        "totalTrades": 149
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": -9.03,
+        "vsMarket": -38.37,
+        "maxDrawdown": 37.93,
+        "winRate": 42.3,
+        "profitFactor": 0.65,
+        "totalTrades": 78
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": -10.36,
+        "vsMarket": -39.7,
+        "maxDrawdown": 11.43,
+        "winRate": 25,
+        "profitFactor": 0.11,
+        "totalTrades": 8
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": -10.36,
+        "vsMarket": -39.7,
+        "maxDrawdown": 11.43,
+        "winRate": 25,
+        "profitFactor": 0.11,
+        "totalTrades": 8
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": -10.36,
+        "vsMarket": -39.7,
+        "maxDrawdown": 11.43,
+        "winRate": 25,
+        "profitFactor": 0.11,
+        "totalTrades": 8
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": -10.36,
+        "vsMarket": -39.7,
+        "maxDrawdown": 11.43,
+        "winRate": 25,
+        "profitFactor": 0.11,
+        "totalTrades": 8
+      },
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": -12.87,
+        "vsMarket": -42.21,
+        "maxDrawdown": 38.31,
+        "winRate": 43.4,
+        "profitFactor": 0.82,
+        "totalTrades": 117
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": -16.19,
+        "vsMarket": -45.53,
+        "maxDrawdown": 37.21,
+        "winRate": 39.5,
+        "profitFactor": 0.64,
+        "totalTrades": 205
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": -16.96,
+        "vsMarket": -46.3,
+        "maxDrawdown": 43.32,
+        "winRate": 19.1,
+        "profitFactor": 0.72,
+        "totalTrades": 204
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": -17.25,
+        "vsMarket": -46.59,
+        "maxDrawdown": 55.15,
+        "winRate": 45.7,
+        "profitFactor": 1,
+        "totalTrades": 256
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": -22.12,
+        "vsMarket": -51.46,
+        "maxDrawdown": 40.66,
+        "winRate": 16.5,
+        "profitFactor": 0.74,
+        "totalTrades": 248
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": -47.9,
+        "vsMarket": -77.24,
+        "maxDrawdown": 65.07,
+        "winRate": 11.3,
+        "profitFactor": 0.64,
+        "totalTrades": 247
+      }
+    ]
+  },
+  {
+    "symbol": "BNBUSDT",
+    "period": "2024",
+    "market": 123.92,
+    "results": [
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": 128.7,
+        "vsMarket": 4.78,
+        "maxDrawdown": 19.17,
+        "winRate": 50,
+        "profitFactor": 1.04,
+        "totalTrades": 148
+      },
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": 100.63,
+        "vsMarket": -23.29,
+        "maxDrawdown": 33.28,
+        "winRate": 46.4,
+        "profitFactor": 0.59,
+        "totalTrades": 110
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": 95.26,
+        "vsMarket": -28.66,
+        "maxDrawdown": 23.17,
+        "winRate": 43.8,
+        "profitFactor": 0.87,
+        "totalTrades": 162
+      },
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": 94.51,
+        "vsMarket": -29.41,
+        "maxDrawdown": 31.03,
+        "winRate": 50.7,
+        "profitFactor": 1.21,
+        "totalTrades": 71
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": 66.67,
+        "vsMarket": -57.25,
+        "maxDrawdown": 31.92,
+        "winRate": 47.2,
+        "profitFactor": 0.76,
+        "totalTrades": 125
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": 66.67,
+        "vsMarket": -57.25,
+        "maxDrawdown": 31.92,
+        "winRate": 47.2,
+        "profitFactor": 0.76,
+        "totalTrades": 125
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": 54.34,
+        "vsMarket": -69.58,
+        "maxDrawdown": 43.82,
+        "winRate": 42.6,
+        "profitFactor": 0.65,
+        "totalTrades": 136
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": 40.04,
+        "vsMarket": -83.88,
+        "maxDrawdown": 21.23,
+        "winRate": 24.2,
+        "profitFactor": 1,
+        "totalTrades": 207
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": 25.15,
+        "vsMarket": -98.77,
+        "maxDrawdown": 47.78,
+        "winRate": 47.6,
+        "profitFactor": 0.7,
+        "totalTrades": 254
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": 17.61,
+        "vsMarket": -106.31,
+        "maxDrawdown": 33.77,
+        "winRate": 48.8,
+        "profitFactor": 1.05,
+        "totalTrades": 82
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": 15.08,
+        "vsMarket": -108.84,
+        "maxDrawdown": 33.7,
+        "winRate": 13.6,
+        "profitFactor": 0.95,
+        "totalTrades": 242
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": 14.12,
+        "vsMarket": -109.8,
+        "maxDrawdown": 34.78,
+        "winRate": 46.3,
+        "profitFactor": 0.87,
+        "totalTrades": 203
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": 3.32,
+        "vsMarket": -120.6,
+        "maxDrawdown": 31.71,
+        "winRate": 19.4,
+        "profitFactor": 0.88,
+        "totalTrades": 253
+      },
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": 0.76,
+        "vsMarket": -123.16,
+        "maxDrawdown": 6.43,
+        "winRate": 43.5,
+        "profitFactor": 0.37,
+        "totalTrades": 12
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": 0.76,
+        "vsMarket": -123.16,
+        "maxDrawdown": 6.43,
+        "winRate": 43.5,
+        "profitFactor": 0.37,
+        "totalTrades": 12
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": -8.08,
+        "vsMarket": -132,
+        "maxDrawdown": 14.92,
+        "winRate": 28.6,
+        "profitFactor": 0.71,
+        "totalTrades": 11
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": -8.08,
+        "vsMarket": -132,
+        "maxDrawdown": 14.92,
+        "winRate": 28.6,
+        "profitFactor": 0.71,
+        "totalTrades": 11
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": -8.08,
+        "vsMarket": -132,
+        "maxDrawdown": 14.92,
+        "winRate": 28.6,
+        "profitFactor": 0.71,
+        "totalTrades": 11
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": -11.29,
+        "vsMarket": -135.21,
+        "maxDrawdown": 18.09,
+        "winRate": 28.6,
+        "profitFactor": 0.54,
+        "totalTrades": 10
+      }
+    ]
+  },
+  {
+    "symbol": "BNBUSDT",
+    "period": "2025",
+    "market": -14.91,
+    "results": [
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": -0.45,
+        "vsMarket": 14.46,
+        "maxDrawdown": 34.95,
+        "winRate": 40.4,
+        "profitFactor": 0.76,
+        "totalTrades": 99
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": -4.86,
+        "vsMarket": 10.05,
+        "maxDrawdown": 7.69,
+        "winRate": 26.7,
+        "profitFactor": 0.66,
+        "totalTrades": 8
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": -4.86,
+        "vsMarket": 10.05,
+        "maxDrawdown": 7.69,
+        "winRate": 26.7,
+        "profitFactor": 0.66,
+        "totalTrades": 8
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": -4.86,
+        "vsMarket": 10.05,
+        "maxDrawdown": 7.69,
+        "winRate": 26.7,
+        "profitFactor": 0.66,
+        "totalTrades": 8
+      },
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": -11.82,
+        "vsMarket": 3.09,
+        "maxDrawdown": 51.17,
+        "winRate": 37.5,
+        "profitFactor": 0.66,
+        "totalTrades": 96
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": -12.09,
+        "vsMarket": 2.82,
+        "maxDrawdown": 14.7,
+        "winRate": 26.7,
+        "profitFactor": 0.37,
+        "totalTrades": 8
+      },
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": -12.74,
+        "vsMarket": 2.17,
+        "maxDrawdown": 19.13,
+        "winRate": 46.9,
+        "profitFactor": 1.1,
+        "totalTrades": 17
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": -12.74,
+        "vsMarket": 2.17,
+        "maxDrawdown": 19.13,
+        "winRate": 46.9,
+        "profitFactor": 1.1,
+        "totalTrades": 17
+      },
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": -13.03,
+        "vsMarket": 1.88,
+        "maxDrawdown": 46.65,
+        "winRate": 47.1,
+        "profitFactor": 1.06,
+        "totalTrades": 191
+      },
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": -20.39,
+        "vsMarket": -5.48,
+        "maxDrawdown": 36.35,
+        "winRate": 43.6,
+        "profitFactor": 0.78,
+        "totalTrades": 147
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": -27.18,
+        "vsMarket": -12.27,
+        "maxDrawdown": 42.81,
+        "winRate": 41.8,
+        "profitFactor": 0.71,
+        "totalTrades": 261
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": -31.66,
+        "vsMarket": -16.75,
+        "maxDrawdown": 52.92,
+        "winRate": 44.9,
+        "profitFactor": 0.66,
+        "totalTrades": 332
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": -32.84,
+        "vsMarket": -17.93,
+        "maxDrawdown": 51.96,
+        "winRate": 41.8,
+        "profitFactor": 0.58,
+        "totalTrades": 165
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": -32.84,
+        "vsMarket": -17.93,
+        "maxDrawdown": 51.96,
+        "winRate": 41.8,
+        "profitFactor": 0.58,
+        "totalTrades": 165
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": -41.07,
+        "vsMarket": -26.16,
+        "maxDrawdown": 50.44,
+        "winRate": 48.3,
+        "profitFactor": 0.67,
+        "totalTrades": 172
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": -41.37,
+        "vsMarket": -26.46,
+        "maxDrawdown": 58.78,
+        "winRate": 49,
+        "profitFactor": 1.09,
+        "totalTrades": 200
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": -47.01,
+        "vsMarket": -32.1,
+        "maxDrawdown": 50.26,
+        "winRate": 16.8,
+        "profitFactor": 0.6,
+        "totalTrades": 345
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": -47.37,
+        "vsMarket": -32.46,
+        "maxDrawdown": 52.85,
+        "winRate": 20.7,
+        "profitFactor": 0.63,
+        "totalTrades": 290
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": -59.66,
+        "vsMarket": -44.75,
+        "maxDrawdown": 61.67,
+        "winRate": 13.6,
+        "profitFactor": 0.71,
+        "totalTrades": 301
+      }
+    ]
+  },
+  {
+    "symbol": "SOLUSDT",
+    "period": "2023",
+    "market": 926.73,
+    "results": [
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": 265.19,
+        "vsMarket": -661.54,
+        "maxDrawdown": 52.61,
+        "winRate": 48.6,
+        "profitFactor": 0.85,
+        "totalTrades": 278
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": 117.15,
+        "vsMarket": -809.58,
+        "maxDrawdown": 41.67,
+        "winRate": 47.5,
+        "profitFactor": 0.98,
+        "totalTrades": 177
+      },
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": 76.03,
+        "vsMarket": -850.7,
+        "maxDrawdown": 44.01,
+        "winRate": 48,
+        "profitFactor": 0.93,
+        "totalTrades": 152
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": 73.15,
+        "vsMarket": -853.58,
+        "maxDrawdown": 38.69,
+        "winRate": 56.7,
+        "profitFactor": 1.23,
+        "totalTrades": 90
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": 48.83,
+        "vsMarket": -877.9,
+        "maxDrawdown": 58.24,
+        "winRate": 43.9,
+        "profitFactor": 0.85,
+        "totalTrades": 139
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": 42.34,
+        "vsMarket": -884.39,
+        "maxDrawdown": 45.4,
+        "winRate": 24.9,
+        "profitFactor": 1.01,
+        "totalTrades": 197
+      },
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": 29.14,
+        "vsMarket": -897.59,
+        "maxDrawdown": 47.65,
+        "winRate": 54.5,
+        "profitFactor": 1.5,
+        "totalTrades": 77
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": 9.47,
+        "vsMarket": -917.26,
+        "maxDrawdown": 39.77,
+        "winRate": 24.9,
+        "profitFactor": 0.96,
+        "totalTrades": 237
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": 6.28,
+        "vsMarket": -920.45,
+        "maxDrawdown": 55.28,
+        "winRate": 16.2,
+        "profitFactor": 1.01,
+        "totalTrades": 241
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": 3.49,
+        "vsMarket": -923.24,
+        "maxDrawdown": 55.2,
+        "winRate": 41.2,
+        "profitFactor": 0.77,
+        "totalTrades": 136
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": 3.49,
+        "vsMarket": -923.24,
+        "maxDrawdown": 55.2,
+        "winRate": 41.2,
+        "profitFactor": 0.77,
+        "totalTrades": 136
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": 0.06,
+        "vsMarket": -926.67,
+        "maxDrawdown": 16.53,
+        "winRate": 47.6,
+        "profitFactor": 1.16,
+        "totalTrades": 21
+      },
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": -5.16,
+        "vsMarket": -931.89,
+        "maxDrawdown": 10.9,
+        "winRate": 41.4,
+        "profitFactor": 1.35,
+        "totalTrades": 15
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": -5.16,
+        "vsMarket": -931.89,
+        "maxDrawdown": 10.9,
+        "winRate": 41.4,
+        "profitFactor": 1.35,
+        "totalTrades": 15
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": -7.74,
+        "vsMarket": -934.47,
+        "maxDrawdown": 19.63,
+        "winRate": 47.6,
+        "profitFactor": 0.95,
+        "totalTrades": 24
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": -7.74,
+        "vsMarket": -934.47,
+        "maxDrawdown": 19.63,
+        "winRate": 47.6,
+        "profitFactor": 0.95,
+        "totalTrades": 24
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": -7.74,
+        "vsMarket": -934.47,
+        "maxDrawdown": 19.63,
+        "winRate": 47.6,
+        "profitFactor": 0.95,
+        "totalTrades": 24
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": -12.98,
+        "vsMarket": -939.71,
+        "maxDrawdown": 45.2,
+        "winRate": 44.2,
+        "profitFactor": 0.79,
+        "totalTrades": 217
+      },
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": -15.4,
+        "vsMarket": -942.13,
+        "maxDrawdown": 39.9,
+        "winRate": 39.7,
+        "profitFactor": 0.7,
+        "totalTrades": 108
+      }
+    ]
+  },
+  {
+    "symbol": "SOLUSDT",
+    "period": "2024",
+    "market": 86.41,
+    "results": [
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": 145.74,
+        "vsMarket": 59.33,
+        "maxDrawdown": 44,
+        "winRate": 49.1,
+        "profitFactor": 0.87,
+        "totalTrades": 159
+      },
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": 56.47,
+        "vsMarket": -29.94,
+        "maxDrawdown": 47.73,
+        "winRate": 44,
+        "profitFactor": 1.03,
+        "totalTrades": 75
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": 44.53,
+        "vsMarket": -41.88,
+        "maxDrawdown": 53.91,
+        "winRate": 50,
+        "profitFactor": 0.86,
+        "totalTrades": 260
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": 42.02,
+        "vsMarket": -44.39,
+        "maxDrawdown": 48.67,
+        "winRate": 51.9,
+        "profitFactor": 1.02,
+        "totalTrades": 181
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": 33.21,
+        "vsMarket": -53.2,
+        "maxDrawdown": 39.34,
+        "winRate": 15.9,
+        "profitFactor": 1.04,
+        "totalTrades": 252
+      },
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": 26.81,
+        "vsMarket": -59.6,
+        "maxDrawdown": 32.44,
+        "winRate": 53.2,
+        "profitFactor": 0.94,
+        "totalTrades": 109
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": 9.06,
+        "vsMarket": -77.35,
+        "maxDrawdown": 59.12,
+        "winRate": 50.4,
+        "profitFactor": 0.95,
+        "totalTrades": 129
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": -7.18,
+        "vsMarket": -93.59,
+        "maxDrawdown": 51.76,
+        "winRate": 54.1,
+        "profitFactor": 1.15,
+        "totalTrades": 135
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": -7.18,
+        "vsMarket": -93.59,
+        "maxDrawdown": 51.76,
+        "winRate": 54.1,
+        "profitFactor": 1.15,
+        "totalTrades": 135
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": -13.55,
+        "vsMarket": -99.96,
+        "maxDrawdown": 20.15,
+        "winRate": 30,
+        "profitFactor": 0.57,
+        "totalTrades": 15
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": -13.55,
+        "vsMarket": -99.96,
+        "maxDrawdown": 20.15,
+        "winRate": 30,
+        "profitFactor": 0.57,
+        "totalTrades": 15
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": -13.55,
+        "vsMarket": -99.96,
+        "maxDrawdown": 20.15,
+        "winRate": 30,
+        "profitFactor": 0.57,
+        "totalTrades": 15
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": -13.55,
+        "vsMarket": -99.96,
+        "maxDrawdown": 20.15,
+        "winRate": 30,
+        "profitFactor": 0.57,
+        "totalTrades": 15
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": -16.33,
+        "vsMarket": -102.74,
+        "maxDrawdown": 52.31,
+        "winRate": 48.2,
+        "profitFactor": 0.95,
+        "totalTrades": 85
+      },
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": -19.5,
+        "vsMarket": -105.91,
+        "maxDrawdown": 22,
+        "winRate": 35.7,
+        "profitFactor": 0.42,
+        "totalTrades": 22
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": -19.5,
+        "vsMarket": -105.91,
+        "maxDrawdown": 22,
+        "winRate": 35.7,
+        "profitFactor": 0.42,
+        "totalTrades": 22
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": -21.45,
+        "vsMarket": -107.86,
+        "maxDrawdown": 50.63,
+        "winRate": 22.3,
+        "profitFactor": 0.95,
+        "totalTrades": 238
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": -32.11,
+        "vsMarket": -118.52,
+        "maxDrawdown": 49.21,
+        "winRate": 44.9,
+        "profitFactor": 0.74,
+        "totalTrades": 234
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": -41.17,
+        "vsMarket": -127.58,
+        "maxDrawdown": 56.27,
+        "winRate": 24.9,
+        "profitFactor": 0.89,
+        "totalTrades": 197
+      }
+    ]
+  },
+  {
+    "symbol": "SOLUSDT",
+    "period": "2025",
+    "market": -56.82,
+    "results": [
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": 19.38,
+        "vsMarket": 76.2,
+        "maxDrawdown": 35.43,
+        "winRate": 51.8,
+        "profitFactor": 0.98,
+        "totalTrades": 132
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": -15.42,
+        "vsMarket": 41.4,
+        "maxDrawdown": 24.65,
+        "winRate": 48.4,
+        "profitFactor": 0.68,
+        "totalTrades": 18
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": -15.42,
+        "vsMarket": 41.4,
+        "maxDrawdown": 24.65,
+        "winRate": 48.4,
+        "profitFactor": 0.68,
+        "totalTrades": 18
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": -15.42,
+        "vsMarket": 41.4,
+        "maxDrawdown": 24.65,
+        "winRate": 48.4,
+        "profitFactor": 0.68,
+        "totalTrades": 18
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": -19.43,
+        "vsMarket": 37.39,
+        "maxDrawdown": 27.3,
+        "winRate": 50,
+        "profitFactor": 0.56,
+        "totalTrades": 15
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": -37.04,
+        "vsMarket": 19.78,
+        "maxDrawdown": 52.58,
+        "winRate": 53,
+        "profitFactor": 1.01,
+        "totalTrades": 300
+      },
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": -37.3,
+        "vsMarket": 19.52,
+        "maxDrawdown": 43.01,
+        "winRate": 44.3,
+        "profitFactor": 0.84,
+        "totalTrades": 33
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": -37.3,
+        "vsMarket": 19.52,
+        "maxDrawdown": 43.01,
+        "winRate": 44.3,
+        "profitFactor": 0.84,
+        "totalTrades": 33
+      },
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": -46.45,
+        "vsMarket": 10.37,
+        "maxDrawdown": 59.05,
+        "winRate": 46.8,
+        "profitFactor": 1.33,
+        "totalTrades": 94
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": -50.04,
+        "vsMarket": 6.78,
+        "maxDrawdown": 64.65,
+        "winRate": 50.9,
+        "profitFactor": 1,
+        "totalTrades": 224
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": -51.24,
+        "vsMarket": 5.58,
+        "maxDrawdown": 65.43,
+        "winRate": 51.4,
+        "profitFactor": 1.07,
+        "totalTrades": 173
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": -51.24,
+        "vsMarket": 5.58,
+        "maxDrawdown": 65.43,
+        "winRate": 51.4,
+        "profitFactor": 1.07,
+        "totalTrades": 173
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": -53.03,
+        "vsMarket": 3.79,
+        "maxDrawdown": 65.24,
+        "winRate": 50,
+        "profitFactor": 1.01,
+        "totalTrades": 176
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": -55.96,
+        "vsMarket": 0.86,
+        "maxDrawdown": 61.73,
+        "winRate": 19.5,
+        "profitFactor": 0.87,
+        "totalTrades": 303
+      },
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": -59.98,
+        "vsMarket": -3.16,
+        "maxDrawdown": 74.93,
+        "winRate": 48.5,
+        "profitFactor": 0.98,
+        "totalTrades": 196
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": -62.01,
+        "vsMarket": -5.19,
+        "maxDrawdown": 71.9,
+        "winRate": 46.7,
+        "profitFactor": 0.88,
+        "totalTrades": 107
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": -62.51,
+        "vsMarket": -5.69,
+        "maxDrawdown": 67.84,
+        "winRate": 13.7,
+        "profitFactor": 0.85,
+        "totalTrades": 300
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": -66.27,
+        "vsMarket": -9.45,
+        "maxDrawdown": 71.1,
+        "winRate": 22.7,
+        "profitFactor": 0.9,
+        "totalTrades": 251
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": -74.02,
+        "vsMarket": -17.2,
+        "maxDrawdown": 83.53,
+        "winRate": 44.5,
+        "profitFactor": 0.79,
+        "totalTrades": 348
+      }
+    ]
+  },
+  {
+    "symbol": "XRPUSDT",
+    "period": "2023",
+    "market": 83.93,
+    "results": [
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": 124.62,
+        "vsMarket": 40.69,
+        "maxDrawdown": 30.48,
+        "winRate": 48.6,
+        "profitFactor": 0.87,
+        "totalTrades": 74
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": 78.49,
+        "vsMarket": -5.44,
+        "maxDrawdown": 31,
+        "winRate": 51.1,
+        "profitFactor": 0.81,
+        "totalTrades": 137
+      },
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": 65.21,
+        "vsMarket": -18.72,
+        "maxDrawdown": 20.88,
+        "winRate": 45.2,
+        "profitFactor": 0.83,
+        "totalTrades": 110
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": 51.38,
+        "vsMarket": -32.55,
+        "maxDrawdown": 38.2,
+        "winRate": 51.2,
+        "profitFactor": 0.78,
+        "totalTrades": 129
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": 51.38,
+        "vsMarket": -32.55,
+        "maxDrawdown": 38.2,
+        "winRate": 51.2,
+        "profitFactor": 0.78,
+        "totalTrades": 129
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": 37.04,
+        "vsMarket": -46.89,
+        "maxDrawdown": 31.21,
+        "winRate": 47.5,
+        "profitFactor": 1.01,
+        "totalTrades": 162
+      },
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": 23.48,
+        "vsMarket": -60.45,
+        "maxDrawdown": 42.68,
+        "winRate": 44.8,
+        "profitFactor": 0.93,
+        "totalTrades": 154
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": 4.25,
+        "vsMarket": -79.68,
+        "maxDrawdown": 55.1,
+        "winRate": 46.9,
+        "profitFactor": 0.75,
+        "totalTrades": 260
+      },
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": -0.72,
+        "vsMarket": -84.65,
+        "maxDrawdown": 6.12,
+        "winRate": 45.8,
+        "profitFactor": 1.05,
+        "totalTrades": 12
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": -0.72,
+        "vsMarket": -84.65,
+        "maxDrawdown": 6.12,
+        "winRate": 45.8,
+        "profitFactor": 1.05,
+        "totalTrades": 12
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": -4.11,
+        "vsMarket": -88.04,
+        "maxDrawdown": 15.36,
+        "winRate": 52,
+        "profitFactor": 0.94,
+        "totalTrades": 13
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": -4.11,
+        "vsMarket": -88.04,
+        "maxDrawdown": 15.36,
+        "winRate": 52,
+        "profitFactor": 0.94,
+        "totalTrades": 13
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": -4.11,
+        "vsMarket": -88.04,
+        "maxDrawdown": 15.36,
+        "winRate": 52,
+        "profitFactor": 0.94,
+        "totalTrades": 13
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": -9.39,
+        "vsMarket": -93.32,
+        "maxDrawdown": 15.36,
+        "winRate": 50,
+        "profitFactor": 0.57,
+        "totalTrades": 12
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": -9.97,
+        "vsMarket": -93.9,
+        "maxDrawdown": 42.67,
+        "winRate": 41.3,
+        "profitFactor": 0.57,
+        "totalTrades": 80
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": -16.54,
+        "vsMarket": -100.47,
+        "maxDrawdown": 35.86,
+        "winRate": 45.6,
+        "profitFactor": 0.87,
+        "totalTrades": 215
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": -16.77,
+        "vsMarket": -100.7,
+        "maxDrawdown": 35.26,
+        "winRate": 23.6,
+        "profitFactor": 0.74,
+        "totalTrades": 208
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": -42.3,
+        "vsMarket": -126.23,
+        "maxDrawdown": 50.86,
+        "winRate": 15.9,
+        "profitFactor": 0.68,
+        "totalTrades": 258
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": -44.8,
+        "vsMarket": -128.73,
+        "maxDrawdown": 49.89,
+        "winRate": 14.3,
+        "profitFactor": 0.86,
+        "totalTrades": 224
+      }
+    ]
+  },
+  {
+    "symbol": "XRPUSDT",
+    "period": "2024",
+    "market": 229.58,
+    "results": [
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": 80.07,
+        "vsMarket": -149.51,
+        "maxDrawdown": 33.77,
+        "winRate": 52,
+        "profitFactor": 1.13,
+        "totalTrades": 171
+      },
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": 30.35,
+        "vsMarket": -199.23,
+        "maxDrawdown": 41.82,
+        "winRate": 48.7,
+        "profitFactor": 1.02,
+        "totalTrades": 154
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": 30.17,
+        "vsMarket": -199.41,
+        "maxDrawdown": 52.99,
+        "winRate": 50,
+        "profitFactor": 0.85,
+        "totalTrades": 134
+      },
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": 19.8,
+        "vsMarket": -209.78,
+        "maxDrawdown": 34.33,
+        "winRate": 40.7,
+        "profitFactor": 0.74,
+        "totalTrades": 120
+      },
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": 15.6,
+        "vsMarket": -213.98,
+        "maxDrawdown": 46.32,
+        "winRate": 55.4,
+        "profitFactor": 1.6,
+        "totalTrades": 74
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": 4.02,
+        "vsMarket": -225.56,
+        "maxDrawdown": 12.76,
+        "winRate": 38.2,
+        "profitFactor": 1.28,
+        "totalTrades": 19
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": 4.02,
+        "vsMarket": -225.56,
+        "maxDrawdown": 12.76,
+        "winRate": 38.2,
+        "profitFactor": 1.28,
+        "totalTrades": 19
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": 4.02,
+        "vsMarket": -225.56,
+        "maxDrawdown": 12.76,
+        "winRate": 38.2,
+        "profitFactor": 1.28,
+        "totalTrades": 19
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": 2.51,
+        "vsMarket": -227.07,
+        "maxDrawdown": 17.62,
+        "winRate": 38.2,
+        "profitFactor": 1.24,
+        "totalTrades": 17
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": 1.92,
+        "vsMarket": -227.66,
+        "maxDrawdown": 43.53,
+        "winRate": 49.2,
+        "profitFactor": 0.91,
+        "totalTrades": 130
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": 1.92,
+        "vsMarket": -227.66,
+        "maxDrawdown": 43.53,
+        "winRate": 49.2,
+        "profitFactor": 0.91,
+        "totalTrades": 130
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": -0.39,
+        "vsMarket": -229.97,
+        "maxDrawdown": 34.33,
+        "winRate": 52.6,
+        "profitFactor": 1.61,
+        "totalTrades": 78
+      },
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": -2.36,
+        "vsMarket": -231.94,
+        "maxDrawdown": 4.64,
+        "winRate": 45.5,
+        "profitFactor": 1.19,
+        "totalTrades": 5
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": -2.36,
+        "vsMarket": -231.94,
+        "maxDrawdown": 4.64,
+        "winRate": 45.5,
+        "profitFactor": 1.19,
+        "totalTrades": 5
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": -14.25,
+        "vsMarket": -243.83,
+        "maxDrawdown": 59.24,
+        "winRate": 50,
+        "profitFactor": 0.88,
+        "totalTrades": 258
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": -21.32,
+        "vsMarket": -250.9,
+        "maxDrawdown": 48.63,
+        "winRate": 20.4,
+        "profitFactor": 1.01,
+        "totalTrades": 245
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": -22.86,
+        "vsMarket": -252.44,
+        "maxDrawdown": 51.4,
+        "winRate": 25.9,
+        "profitFactor": 1.11,
+        "totalTrades": 197
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": -35.46,
+        "vsMarket": -265.04,
+        "maxDrawdown": 51.06,
+        "winRate": 44.2,
+        "profitFactor": 0.83,
+        "totalTrades": 215
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": -41.69,
+        "vsMarket": -271.27,
+        "maxDrawdown": 56.99,
+        "winRate": 14.8,
+        "profitFactor": 0.85,
+        "totalTrades": 229
+      }
+    ]
+  },
+  {
+    "symbol": "XRPUSDT",
+    "period": "2025",
+    "market": -36.27,
+    "results": [
+      {
+        "strategy": "EMA Bear Only Short",
+        "family": "A",
+        "totalReturn": 4.27,
+        "vsMarket": 40.54,
+        "maxDrawdown": 11.59,
+        "winRate": 43.1,
+        "profitFactor": 0.79,
+        "totalTrades": 34
+      },
+      {
+        "strategy": "Short Bear Regime",
+        "family": "E",
+        "totalReturn": 4.27,
+        "vsMarket": 40.54,
+        "maxDrawdown": 11.59,
+        "winRate": 43.1,
+        "profitFactor": 0.79,
+        "totalTrades": 34
+      },
+      {
+        "strategy": "EMA Bull Only",
+        "family": "A",
+        "totalReturn": -5.33,
+        "vsMarket": 30.94,
+        "maxDrawdown": 12.36,
+        "winRate": 47.6,
+        "profitFactor": 0.86,
+        "totalTrades": 12
+      },
+      {
+        "strategy": "RSI Bull Filter",
+        "family": "B",
+        "totalReturn": -5.33,
+        "vsMarket": 30.94,
+        "maxDrawdown": 12.36,
+        "winRate": 47.6,
+        "profitFactor": 0.86,
+        "totalTrades": 12
+      },
+      {
+        "strategy": "Dip Buying Bull",
+        "family": "D",
+        "totalReturn": -5.33,
+        "vsMarket": 30.94,
+        "maxDrawdown": 12.36,
+        "winRate": 47.6,
+        "profitFactor": 0.86,
+        "totalTrades": 12
+      },
+      {
+        "strategy": "Long Only EMA(50)",
+        "family": "D",
+        "totalReturn": -7.06,
+        "vsMarket": 29.21,
+        "maxDrawdown": 11.55,
+        "winRate": 47.6,
+        "profitFactor": 0.77,
+        "totalTrades": 10
+      },
+      {
+        "strategy": "Trail ATR 2x",
+        "family": "F",
+        "totalReturn": -26.19,
+        "vsMarket": 10.08,
+        "maxDrawdown": 54.34,
+        "winRate": 20.8,
+        "profitFactor": 1.05,
+        "totalTrades": 303
+      },
+      {
+        "strategy": "Trail ATR 3x",
+        "family": "F",
+        "totalReturn": -36.22,
+        "vsMarket": 0.05,
+        "maxDrawdown": 60.4,
+        "winRate": 25.3,
+        "profitFactor": 1.07,
+        "totalTrades": 245
+      },
+      {
+        "strategy": "Wide Stop 10%",
+        "family": "F",
+        "totalReturn": -47.27,
+        "vsMarket": -11,
+        "maxDrawdown": 72.46,
+        "winRate": 47.9,
+        "profitFactor": 0.93,
+        "totalTrades": 96
+      },
+      {
+        "strategy": "RSI Aggressive (20/80)",
+        "family": "B",
+        "totalReturn": -49.12,
+        "vsMarket": -12.85,
+        "maxDrawdown": 71.8,
+        "winRate": 53.6,
+        "profitFactor": 1.54,
+        "totalTrades": 183
+      },
+      {
+        "strategy": "EMA Cross (50/200)",
+        "family": "A",
+        "totalReturn": -50.45,
+        "vsMarket": -14.18,
+        "maxDrawdown": 71.82,
+        "winRate": 52.5,
+        "profitFactor": 1.27,
+        "totalTrades": 177
+      },
+      {
+        "strategy": "ATR Expansion",
+        "family": "C",
+        "totalReturn": -50.45,
+        "vsMarket": -14.18,
+        "maxDrawdown": 71.82,
+        "winRate": 52.5,
+        "profitFactor": 1.27,
+        "totalTrades": 177
+      },
+      {
+        "strategy": "Tight Stop 2%",
+        "family": "F",
+        "totalReturn": -51.57,
+        "vsMarket": -15.3,
+        "maxDrawdown": 62.23,
+        "winRate": 48.8,
+        "profitFactor": 1.01,
+        "totalTrades": 283
+      },
+      {
+        "strategy": "Donchian Breakout",
+        "family": "A",
+        "totalReturn": -52.81,
+        "vsMarket": -16.54,
+        "maxDrawdown": 65.44,
+        "winRate": 48.1,
+        "profitFactor": 0.95,
+        "totalTrades": 106
+      },
+      {
+        "strategy": "RSI Range (30/70)",
+        "family": "B",
+        "totalReturn": -62.78,
+        "vsMarket": -26.51,
+        "maxDrawdown": 77.14,
+        "winRate": 49.9,
+        "profitFactor": 1.01,
+        "totalTrades": 355
+      },
+      {
+        "strategy": "Short Range",
+        "family": "E",
+        "totalReturn": -65.02,
+        "vsMarket": -28.75,
+        "maxDrawdown": 72.04,
+        "winRate": 46.1,
+        "profitFactor": 0.98,
+        "totalTrades": 142
+      },
+      {
+        "strategy": "EMA Cross (20/50)",
+        "family": "A",
+        "totalReturn": -69.56,
+        "vsMarket": -33.29,
+        "maxDrawdown": 80.83,
+        "winRate": 46.8,
+        "profitFactor": 0.95,
+        "totalTrades": 222
+      },
+      {
+        "strategy": "Long Only Trend",
+        "family": "D",
+        "totalReturn": -72.85,
+        "vsMarket": -36.58,
+        "maxDrawdown": 82.85,
+        "winRate": 47.9,
+        "profitFactor": 0.89,
+        "totalTrades": 192
+      },
+      {
+        "strategy": "Squeeze Breakout",
+        "family": "C",
+        "totalReturn": -79.5,
+        "vsMarket": -43.23,
+        "maxDrawdown": 83.87,
+        "winRate": 11.4,
+        "profitFactor": 0.71,
+        "totalTrades": 315
+      }
+    ]
+  }
+]
