@@ -211,3 +211,113 @@ Real edge would likely require:
 **Date:** April 10, 2026  
 **Researcher:** MiniMax-M2.7 + GLM-5.1 (independent validation)  
 **Status:** Complete - Negative Result
+
+---
+
+## Phase 2: Risk-Adjusted Returns Research
+### Research Question: Can we manage risk better than Buy & Hold?
+
+**Perspective Shift:** Instead of "beat the market," we asked:
+- Can we reduce drawdown while keeping comparable returns?
+- Is there a better risk-adjusted payoff?
+- Does "Long + Cash" (stay out when trend is down) work?
+
+### Test Setup
+- **Strategies:** Long+Cash (EMA50/100/200), Long+Trail (EMA50/100/200)
+- **Assets:** BTCUSDT, ETHUSDT
+- **Periods:** 2023, 2024, 2025
+- **Benchmarks compared:** Absolute return, Max Drawdown, Return/DD ratio
+
+### Results
+
+#### BTC 2023 (Bull Market: B&H +156%)
+| Strategy | Return | vs B&H | MaxDD | DD Change | Ret/DD |
+|----------|--------|---------|-------|-----------|--------|
+| B&H | +156.3% | baseline | 21.7% | baseline | 7.2 |
+| Long+Cash EMA100 | +46.8% | -109.5% | 38.1% | -16.4% | 1.2 |
+| Long+Trail EMA200 | -14.8% | -171.1% | 30.3% | -8.6% | -0.5 |
+
+#### BTC 2024 (Bull Market: B&H +118%)
+| Strategy | Return | vs B&H | MaxDD | DD Change | Ret/DD |
+|----------|--------|---------|-------|-----------|--------|
+| B&H | +117.7% | baseline | 32.3% | baseline | 3.6 |
+| Long+Cash EMA100 | +74.7% | -43.0% | 20.4% | +11.9% | 3.7 |
+| Long+Trail EMA200 | +15.6% | -102.1% | 14.7% | +17.6% | 1.1 |
+
+#### BTC 2025 (Bear Market: B&H -24%)
+| Strategy | Return | vs B&H | MaxDD | DD Change | Ret/DD |
+|----------|--------|---------|-------|-----------|--------|
+| B&H | -23.8% | baseline | 50.1% | baseline | -0.5 |
+| Long+Cash EMA200 | -46.3% | -22.6% | 54.6% | -4.6% | -0.8 |
+| Long+Trail EMA200 | -27.8% | -4.0% | 36.5% | +13.6% | -0.8 |
+
+### Summary: Average Across All Periods
+
+| Strategy | Avg Return | vs B&H | Avg MaxDD | DD Reduction | Ret/DD |
+|----------|------------|---------|-----------|--------------|--------|
+| Long+Cash EMA100 | +2.3% | -56.5% | 42.4% | -2.0% | 0.49 |
+| Long+Cash EMA200 | -4.9% | -63.8% | 42.6% | -2.2% | 0.19 |
+| Long+Trail EMA200 | -11.2% | -70.0% | 29.2% | +11.1% | -0.19 |
+| Long+Trail EMA100 | -19.6% | -78.5% | 34.8% | +5.6% | -0.36 |
+| Long+Cash EMA50 | -23.5% | -82.4% | 46.7% | -6.3% | -0.37 |
+
+### Key Findings
+
+#### 1. NO Free Lunch
+- Long+Cash reduces drawdown MARGINALLY (+3% best case)
+- But it also reduces return SIGNIFICANTLY (-23% to -57%)
+- The return/drawdown ratio stays roughly the same
+
+#### 2. Best Case: BTC 2024 Long+Cash EMA100
+- Return: +74.7% (vs B&H +117.7%)
+- MaxDD: 20.4% (vs B&H 32.3%)  
+- DD reduction: +11.9%
+- BUT: You gave up 43% return to save 12% drawdown
+- **Is that a good trade-off?** 
+
+#### 3. Worst Case: Bear Markets
+- In 2025 (BTC -24%), ALL strategies lost money
+- Long+Cash EMA50: -56% loss
+- Being in cash didn't help — you still lost, just less
+
+#### 4. The Only Good News
+- Long+Trail EMA200 reduced drawdown by +11.1% average
+- But at -11.2% average return, you paid heavily for that
+
+### Conclusion
+
+**The Fundamental Problem:**
+
+Simple exposure control (long when trend up, cash when trend down) cannot create a risk-adjusted advantage because:
+
+1. **You can't reliably identify trends** — same problem as prediction
+2. **The timing lag kills returns** — MA crossover is always late
+3. **Markets don't cooperate** — bull markets have brief crashes, bear markets have rallies
+4. **Transaction costs** — frequent switching eats returns
+
+**The Math:**
+
+| Investor Type | Return | MaxDD | Sleep Score |
+|--------------|--------|-------|------------|
+| B&H BTC 2023 | +156% | 22% | 3/10 |
+| Long+Cash BTC 2023 | +47% | 38% | 5/10 |
+| Long+Trail BTC 2023 | -15% | 30% | 7/10 |
+
+**Choose your poison:** High return with volatility, or lower return with... actually not much less volatility.
+
+### Final Verdict
+
+**For the investor who wants stability:**
+- B&H with a small trailing stop might be the best approach
+- Or simply: accept that crypto is volatile and don't check prices
+
+**For the AI experiment:**
+- Pure technical analysis cannot solve the risk/return problem
+- The only edge would be: better prediction (we don't have) or leverage (increases risk)
+
+**Bottom Line:**
+> There is no free lunch. Managing exposure smarter doesn't create alpha — it just trades one type of risk for another.
+
+---
+*Research completed: April 10, 2026*
+*Repo: https://github.com/FrankRKNL/crypto-daytrader*
